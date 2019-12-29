@@ -20,5 +20,5 @@ Based on these first pieces of information, we identified several steps to work 
 → try model averaging and stacking\
 → tune model hyperparameters with gridsearch
 
-In this repository, you will find our final report and final submissions (external dataset, feature extractor, regressor) as well as our working material.
+In this repository, you will find our final report and final productions (external dataset, feature extractor, regressor) as well as our working material.
 In the report, we go through the different steps of the project and present you the ideas we got, the techniques we tried, the models we explored and the results we obtained.
