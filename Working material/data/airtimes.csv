@@ -1,0 +1,397 @@
+,ORIGIN,ORIGIN_CITY_NAME,DEST,DEST_CITY_NAME,AIR_TIME_MEAN
+0,ATL,"Atlanta, GA",ATL,"Atlanta, GA",45.0
+1,ATL,"Atlanta, GA",BOS,"Boston, MA",6002.21
+2,ATL,"Atlanta, GA",CLT,"Charlotte, NC",1481.41
+3,ATL,"Atlanta, GA",DEN,"Denver, CO",7305.19
+4,ATL,"Atlanta, GA",DFW,"Dallas/Fort Worth, TX",8133.17
+5,ATL,"Atlanta, GA",DTW,"Detroit, MI",2285.96
+6,ATL,"Atlanta, GA",EWR,"Newark, NJ",3795.96
+7,ATL,"Atlanta, GA",IAH,"Houston, TX",3210.57
+8,ATL,"Atlanta, GA",JFK,"New York, NY",2409.05
+9,ATL,"Atlanta, GA",LAS,"Las Vegas, NV",15257.25
+10,ATL,"Atlanta, GA",LAX,"Los Angeles, CA",15655.87
+11,ATL,"Atlanta, GA",LGA,"New York, NY",9760.01
+12,ATL,"Atlanta, GA",MCO,"Orlando, FL",3770.13
+13,ATL,"Atlanta, GA",MIA,"Miami, FL",4034.89
+14,ATL,"Atlanta, GA",MSP,"Minneapolis, MN",5181.17
+15,ATL,"Atlanta, GA",ORD,"Chicago, IL",3693.83
+16,ATL,"Atlanta, GA",PHL,"Philadelphia, PA",3609.92
+17,ATL,"Atlanta, GA",PHX,"Phoenix, AZ",9150.03
+18,ATL,"Atlanta, GA",SEA,"Seattle, WA",10956.95
+19,ATL,"Atlanta, GA",SFO,"San Francisco, CA",17638.23
+20,BOS,"Boston, MA",ATL,"Atlanta, GA",6537.53
+21,BOS,"Boston, MA",BOS,"Boston, MA",37.33
+22,BOS,"Boston, MA",CLT,"Charlotte, NC",4329.68
+23,BOS,"Boston, MA",DEN,"Denver, CO",9102.49
+24,BOS,"Boston, MA",DFW,"Dallas/Fort Worth, TX",11139.04
+25,BOS,"Boston, MA",DTW,"Detroit, MI",2239.42
+26,BOS,"Boston, MA",EWR,"Newark, NJ",1718.47
+27,BOS,"Boston, MA",IAH,"Houston, TX",7464.39
+28,BOS,"Boston, MA",JFK,"New York, NY",1895.33
+29,BOS,"Boston, MA",LAS,"Las Vegas, NV",8357.09
+30,BOS,"Boston, MA",LAX,"Los Angeles, CA",11722.77
+31,BOS,"Boston, MA",LGA,"New York, NY",4771.3
+32,BOS,"Boston, MA",MCO,"Orlando, FL",6782.67
+33,BOS,"Boston, MA",MIA,"Miami, FL",13629.84
+34,BOS,"Boston, MA",MSP,"Minneapolis, MN",3788.92
+35,BOS,"Boston, MA",ORD,"Chicago, IL",8513.02
+36,BOS,"Boston, MA",PHL,"Philadelphia, PA",3069.78
+37,BOS,"Boston, MA",PHX,"Phoenix, AZ",11695.33
+38,BOS,"Boston, MA",SEA,"Seattle, WA",11812.61
+39,BOS,"Boston, MA",SFO,"San Francisco, CA",19346.3
+40,CLT,"Charlotte, NC",ATL,"Atlanta, GA",1497.38
+41,CLT,"Charlotte, NC",BOS,"Boston, MA",4181.03
+42,CLT,"Charlotte, NC",CLT,"Charlotte, NC",67.8
+43,CLT,"Charlotte, NC",DEN,"Denver, CO",9563.09
+44,CLT,"Charlotte, NC",DFW,"Dallas/Fort Worth, TX",8466.78
+45,CLT,"Charlotte, NC",DTW,"Detroit, MI",1746.52
+46,CLT,"Charlotte, NC",EWR,"Newark, NJ",3189.84
+47,CLT,"Charlotte, NC",IAH,"Houston, TX",6246.8
+48,CLT,"Charlotte, NC",JFK,"New York, NY",3073.29
+49,CLT,"Charlotte, NC",LAS,"Las Vegas, NV",14702.67
+50,CLT,"Charlotte, NC",LAX,"Los Angeles, CA",16659.45
+51,CLT,"Charlotte, NC",LGA,"New York, NY",4331.87
+52,CLT,"Charlotte, NC",MCO,"Orlando, FL",2460.27
+53,CLT,"Charlotte, NC",MIA,"Miami, FL",5469.16
+54,CLT,"Charlotte, NC",MSP,"Minneapolis, MN",3198.52
+55,CLT,"Charlotte, NC",ORD,"Chicago, IL",3872.14
+56,CLT,"Charlotte, NC",PHL,"Philadelphia, PA",1833.63
+57,CLT,"Charlotte, NC",PHX,"Phoenix, AZ",16979.18
+58,CLT,"Charlotte, NC",SEA,"Seattle, WA",8062.5
+59,CLT,"Charlotte, NC",SFO,"San Francisco, CA",18522.93
+60,DEN,"Denver, CO",ATL,"Atlanta, GA",6128.96
+61,DEN,"Denver, CO",BOS,"Boston, MA",7565.83
+62,DEN,"Denver, CO",CLT,"Charlotte, NC",7705.44
+63,DEN,"Denver, CO",DEN,"Denver, CO",122.39
+64,DEN,"Denver, CO",DFW,"Dallas/Fort Worth, TX",3745.93
+65,DEN,"Denver, CO",DTW,"Detroit, MI",3813.86
+66,DEN,"Denver, CO",EWR,"Newark, NJ",5617.84
+67,DEN,"Denver, CO",IAH,"Houston, TX",3506.48
+68,DEN,"Denver, CO",JFK,"New York, NY",3856.89
+69,DEN,"Denver, CO",LAS,"Las Vegas, NV",4600.33
+70,DEN,"Denver, CO",LAX,"Los Angeles, CA",5667.64
+71,DEN,"Denver, CO",LGA,"New York, NY",8574.48
+72,DEN,"Denver, CO",MCO,"Orlando, FL",6554.55
+73,DEN,"Denver, CO",MIA,"Miami, FL",4397.61
+74,DEN,"Denver, CO",MSP,"Minneapolis, MN",2781.29
+75,DEN,"Denver, CO",ORD,"Chicago, IL",4906.28
+76,DEN,"Denver, CO",PHL,"Philadelphia, PA",4879.83
+77,DEN,"Denver, CO",PHX,"Phoenix, AZ",3468.61
+78,DEN,"Denver, CO",SEA,"Seattle, WA",5081.82
+79,DEN,"Denver, CO",SFO,"San Francisco, CA",5300.04
+80,DFW,"Dallas/Fort Worth, TX",ATL,"Atlanta, GA",7035.06
+81,DFW,"Dallas/Fort Worth, TX",BOS,"Boston, MA",10304.71
+82,DFW,"Dallas/Fort Worth, TX",CLT,"Charlotte, NC",7190.28
+83,DFW,"Dallas/Fort Worth, TX",DEN,"Denver, CO",4060.91
+84,DFW,"Dallas/Fort Worth, TX",DTW,"Detroit, MI",3979.77
+85,DFW,"Dallas/Fort Worth, TX",EWR,"Newark, NJ",7271.8
+86,DFW,"Dallas/Fort Worth, TX",IAH,"Houston, TX",1771.78
+87,DFW,"Dallas/Fort Worth, TX",JFK,"New York, NY",3425.0
+88,DFW,"Dallas/Fort Worth, TX",LAS,"Las Vegas, NV",10408.77
+89,DFW,"Dallas/Fort Worth, TX",LAX,"Los Angeles, CA",11925.39
+90,DFW,"Dallas/Fort Worth, TX",LGA,"New York, NY",24236.24
+91,DFW,"Dallas/Fort Worth, TX",MCO,"Orlando, FL",7272.29
+92,DFW,"Dallas/Fort Worth, TX",MIA,"Miami, FL",9871.02
+93,DFW,"Dallas/Fort Worth, TX",MSP,"Minneapolis, MN",3582.69
+94,DFW,"Dallas/Fort Worth, TX",ORD,"Chicago, IL",7209.3
+95,DFW,"Dallas/Fort Worth, TX",PHL,"Philadelphia, PA",7109.04
+96,DFW,"Dallas/Fort Worth, TX",PHX,"Phoenix, AZ",7706.62
+97,DFW,"Dallas/Fort Worth, TX",SEA,"Seattle, WA",11915.3
+98,DFW,"Dallas/Fort Worth, TX",SFO,"San Francisco, CA",10652.3
+99,DTW,"Detroit, MI",ATL,"Atlanta, GA",2621.73
+100,DTW,"Detroit, MI",BOS,"Boston, MA",1744.69
+101,DTW,"Detroit, MI",CLT,"Charlotte, NC",1654.79
+102,DTW,"Detroit, MI",DEN,"Denver, CO",4113.97
+103,DTW,"Detroit, MI",DFW,"Dallas/Fort Worth, TX",5172.94
+104,DTW,"Detroit, MI",EWR,"Newark, NJ",2060.93
+105,DTW,"Detroit, MI",IAH,"Houston, TX",4193.91
+106,DTW,"Detroit, MI",JFK,"New York, NY",1312.55
+107,DTW,"Detroit, MI",LAS,"Las Vegas, NV",9857.77
+108,DTW,"Detroit, MI",LAX,"Los Angeles, CA",7254.9
+109,DTW,"Detroit, MI",LGA,"New York, NY",3246.13
+110,DTW,"Detroit, MI",MCO,"Orlando, FL",4155.21
+111,DTW,"Detroit, MI",MIA,"Miami, FL",4290.69
+112,DTW,"Detroit, MI",MSP,"Minneapolis, MN",2029.7
+113,DTW,"Detroit, MI",ORD,"Chicago, IL",1126.24
+114,DTW,"Detroit, MI",PHL,"Philadelphia, PA",1716.27
+115,DTW,"Detroit, MI",PHX,"Phoenix, AZ",7624.17
+116,DTW,"Detroit, MI",SEA,"Seattle, WA",7127.31
+117,DTW,"Detroit, MI",SFO,"San Francisco, CA",7640.28
+118,EWR,"Newark, NJ",ATL,"Atlanta, GA",4324.95
+119,EWR,"Newark, NJ",BOS,"Boston, MA",1512.5
+120,EWR,"Newark, NJ",CLT,"Charlotte, NC",3541.34
+121,EWR,"Newark, NJ",DEN,"Denver, CO",6301.13
+122,EWR,"Newark, NJ",DFW,"Dallas/Fort Worth, TX",8491.85
+123,EWR,"Newark, NJ",DTW,"Detroit, MI",2350.45
+124,EWR,"Newark, NJ",EWR,"Newark, NJ",99.67
+125,EWR,"Newark, NJ",IAH,"Houston, TX",6541.11
+126,EWR,"Newark, NJ",JFK,"New York, NY",35.62
+127,EWR,"Newark, NJ",LAS,"Las Vegas, NV",11609.6
+128,EWR,"Newark, NJ",LAX,"Los Angeles, CA",8988.93
+129,EWR,"Newark, NJ",LGA,"New York, NY",16.18
+130,EWR,"Newark, NJ",MCO,"Orlando, FL",6391.56
+131,EWR,"Newark, NJ",MIA,"Miami, FL",3984.69
+132,EWR,"Newark, NJ",MSP,"Minneapolis, MN",5520.51
+133,EWR,"Newark, NJ",ORD,"Chicago, IL",4803.87
+134,EWR,"Newark, NJ",PHL,"Philadelphia, PA",1569.85
+135,EWR,"Newark, NJ",PHX,"Phoenix, AZ",11515.64
+136,EWR,"Newark, NJ",SEA,"Seattle, WA",12241.79
+137,EWR,"Newark, NJ",SFO,"San Francisco, CA",10747.86
+138,IAH,"Houston, TX",ATL,"Atlanta, GA",2853.15
+139,IAH,"Houston, TX",BOS,"Boston, MA",7035.56
+140,IAH,"Houston, TX",CLT,"Charlotte, NC",5271.61
+141,IAH,"Houston, TX",DEN,"Denver, CO",3425.35
+142,IAH,"Houston, TX",DFW,"Dallas/Fort Worth, TX",1528.06
+143,IAH,"Houston, TX",DTW,"Detroit, MI",3682.01
+144,IAH,"Houston, TX",EWR,"Newark, NJ",6003.93
+145,IAH,"Houston, TX",IAH,"Houston, TX",67.77
+146,IAH,"Houston, TX",JFK,"New York, NY",1678.85
+147,IAH,"Houston, TX",LAS,"Las Vegas, NV",8563.02
+148,IAH,"Houston, TX",LAX,"Los Angeles, CA",9739.77
+149,IAH,"Houston, TX",LGA,"New York, NY",13002.43
+150,IAH,"Houston, TX",MCO,"Orlando, FL",2546.76
+151,IAH,"Houston, TX",MIA,"Miami, FL",3910.19
+152,IAH,"Houston, TX",MSP,"Minneapolis, MN",3570.81
+153,IAH,"Houston, TX",ORD,"Chicago, IL",5167.16
+154,IAH,"Houston, TX",PHL,"Philadelphia, PA",6487.18
+155,IAH,"Houston, TX",PHX,"Phoenix, AZ",5362.22
+156,IAH,"Houston, TX",SEA,"Seattle, WA",12213.28
+157,IAH,"Houston, TX",SFO,"San Francisco, CA",7152.83
+158,JFK,"New York, NY",ATL,"Atlanta, GA",2531.23
+159,JFK,"New York, NY",BOS,"Boston, MA",1893.51
+160,JFK,"New York, NY",CLT,"Charlotte, NC",3449.72
+161,JFK,"New York, NY",DEN,"Denver, CO",4302.0
+162,JFK,"New York, NY",DFW,"Dallas/Fort Worth, TX",3294.06
+163,JFK,"New York, NY",DTW,"Detroit, MI",1475.91
+164,JFK,"New York, NY",EWR,"Newark, NJ",20.0
+165,JFK,"New York, NY",IAH,"Houston, TX",1608.97
+166,JFK,"New York, NY",JFK,"New York, NY",43.5
+167,JFK,"New York, NY",LAS,"Las Vegas, NV",15697.51
+168,JFK,"New York, NY",LAX,"Los Angeles, CA",43059.67
+169,JFK,"New York, NY",LGA,"New York, NY",26.0
+170,JFK,"New York, NY",MCO,"Orlando, FL",8513.69
+171,JFK,"New York, NY",MIA,"Miami, FL",5183.95
+172,JFK,"New York, NY",MSP,"Minneapolis, MN",3087.98
+173,JFK,"New York, NY",ORD,"Chicago, IL",3102.96
+174,JFK,"New York, NY",PHL,"Philadelphia, PA",465.0
+175,JFK,"New York, NY",PHX,"Phoenix, AZ",11337.3
+176,JFK,"New York, NY",SEA,"Seattle, WA",10988.67
+177,JFK,"New York, NY",SFO,"San Francisco, CA",23600.46
+178,LAS,"Las Vegas, NV",ATL,"Atlanta, GA",11945.96
+179,LAS,"Las Vegas, NV",BOS,"Boston, MA",7109.58
+180,LAS,"Las Vegas, NV",CLT,"Charlotte, NC",12182.19
+181,LAS,"Las Vegas, NV",DEN,"Denver, CO",4407.42
+182,LAS,"Las Vegas, NV",DFW,"Dallas/Fort Worth, TX",8735.49
+183,LAS,"Las Vegas, NV",DTW,"Detroit, MI",8140.47
+184,LAS,"Las Vegas, NV",EWR,"Newark, NJ",9771.91
+185,LAS,"Las Vegas, NV",IAH,"Houston, TX",8050.19
+186,LAS,"Las Vegas, NV",JFK,"New York, NY",14375.58
+187,LAS,"Las Vegas, NV",LAS,"Las Vegas, NV",19.0
+188,LAS,"Las Vegas, NV",LAX,"Los Angeles, CA",2452.01
+189,LAS,"Las Vegas, NV",LGA,"New York, NY",275.5
+190,LAS,"Las Vegas, NV",MCO,"Orlando, FL",7931.28
+191,LAS,"Las Vegas, NV",MIA,"Miami, FL",11109.13
+192,LAS,"Las Vegas, NV",MSP,"Minneapolis, MN",4477.56
+193,LAS,"Las Vegas, NV",ORD,"Chicago, IL",9918.59
+194,LAS,"Las Vegas, NV",PHL,"Philadelphia, PA",11150.72
+195,LAS,"Las Vegas, NV",PHX,"Phoenix, AZ",3300.09
+196,LAS,"Las Vegas, NV",SEA,"Seattle, WA",8294.41
+197,LAS,"Las Vegas, NV",SFO,"San Francisco, CA",3322.06
+198,LAX,"Los Angeles, CA",ATL,"Atlanta, GA",12191.76
+199,LAX,"Los Angeles, CA",BOS,"Boston, MA",9909.71
+200,LAX,"Los Angeles, CA",CLT,"Charlotte, NC",13922.77
+201,LAX,"Los Angeles, CA",DEN,"Denver, CO",5086.15
+202,LAX,"Los Angeles, CA",DFW,"Dallas/Fort Worth, TX",9797.87
+203,LAX,"Los Angeles, CA",DTW,"Detroit, MI",6906.55
+204,LAX,"Los Angeles, CA",EWR,"Newark, NJ",8889.14
+205,LAX,"Los Angeles, CA",IAH,"Houston, TX",8407.75
+206,LAX,"Los Angeles, CA",JFK,"New York, NY",34472.82
+207,LAX,"Los Angeles, CA",LAS,"Las Vegas, NV",2526.3
+208,LAX,"Los Angeles, CA",LAX,"Los Angeles, CA",98.7
+209,LAX,"Los Angeles, CA",LGA,"New York, NY",311.0
+210,LAX,"Los Angeles, CA",MCO,"Orlando, FL",5840.85
+211,LAX,"Los Angeles, CA",MIA,"Miami, FL",9455.93
+212,LAX,"Los Angeles, CA",MSP,"Minneapolis, MN",5119.02
+213,LAX,"Los Angeles, CA",ORD,"Chicago, IL",13196.34
+214,LAX,"Los Angeles, CA",PHL,"Philadelphia, PA",10264.42
+215,LAX,"Los Angeles, CA",PHX,"Phoenix, AZ",3238.37
+216,LAX,"Los Angeles, CA",SEA,"Seattle, WA",8674.52
+217,LAX,"Los Angeles, CA",SFO,"San Francisco, CA",4222.25
+218,LGA,"New York, NY",ATL,"Atlanta, GA",10282.39
+219,LGA,"New York, NY",BOS,"Boston, MA",4416.51
+220,LGA,"New York, NY",CLT,"Charlotte, NC",5754.84
+221,LGA,"New York, NY",DEN,"Denver, CO",8815.12
+222,LGA,"New York, NY",DFW,"Dallas/Fort Worth, TX",25962.22
+223,LGA,"New York, NY",DTW,"Detroit, MI",3771.46
+224,LGA,"New York, NY",EWR,"Newark, NJ",41.8
+225,LGA,"New York, NY",IAH,"Houston, TX",14503.08
+226,LGA,"New York, NY",JFK,"New York, NY",33.43
+227,LGA,"New York, NY",LAS,"Las Vegas, NV",305.0
+228,LGA,"New York, NY",LAX,"Los Angeles, CA",306.0
+229,LGA,"New York, NY",LGA,"New York, NY",152.5
+230,LGA,"New York, NY",MCO,"Orlando, FL",5351.5
+231,LGA,"New York, NY",MIA,"Miami, FL",12936.53
+232,LGA,"New York, NY",MSP,"Minneapolis, MN",6510.91
+233,LGA,"New York, NY",ORD,"Chicago, IL",15450.42
+234,LGA,"New York, NY",PHL,"Philadelphia, PA",2259.4
+235,LGA,"New York, NY",PHX,"Phoenix, AZ",294.0
+236,LGA,"New York, NY",SEA,"Seattle, WA",317.0
+237,LGA,"New York, NY",SFO,"San Francisco, CA",337.0
+238,MCO,"Orlando, FL",ATL,"Atlanta, GA",4387.81
+239,MCO,"Orlando, FL",BOS,"Boston, MA",6141.45
+240,MCO,"Orlando, FL",CLT,"Charlotte, NC",2794.91
+241,MCO,"Orlando, FL",DEN,"Denver, CO",7880.92
+242,MCO,"Orlando, FL",DFW,"Dallas/Fort Worth, TX",8845.12
+243,MCO,"Orlando, FL",DTW,"Detroit, MI",4261.06
+244,MCO,"Orlando, FL",EWR,"Newark, NJ",6008.99
+245,MCO,"Orlando, FL",IAH,"Houston, TX",2832.64
+246,MCO,"Orlando, FL",JFK,"New York, NY",7801.8
+247,MCO,"Orlando, FL",LAS,"Las Vegas, NV",11663.7
+248,MCO,"Orlando, FL",LAX,"Los Angeles, CA",7245.15
+249,MCO,"Orlando, FL",LGA,"New York, NY",5612.65
+250,MCO,"Orlando, FL",MIA,"Miami, FL",1423.07
+251,MCO,"Orlando, FL",MSP,"Minneapolis, MN",3989.4
+252,MCO,"Orlando, FL",ORD,"Chicago, IL",7792.38
+253,MCO,"Orlando, FL",PHL,"Philadelphia, PA",4905.23
+254,MCO,"Orlando, FL",PHX,"Phoenix, AZ",8465.46
+255,MCO,"Orlando, FL",SEA,"Seattle, WA",12977.46
+256,MCO,"Orlando, FL",SFO,"San Francisco, CA",5295.26
+257,MIA,"Miami, FL",ATL,"Atlanta, GA",3277.53
+258,MIA,"Miami, FL",BOS,"Boston, MA",14069.86
+259,MIA,"Miami, FL",CLT,"Charlotte, NC",5537.14
+260,MIA,"Miami, FL",DEN,"Denver, CO",5211.35
+261,MIA,"Miami, FL",DFW,"Dallas/Fort Worth, TX",10435.7
+262,MIA,"Miami, FL",DTW,"Detroit, MI",4136.16
+263,MIA,"Miami, FL",EWR,"Newark, NJ",4358.14
+264,MIA,"Miami, FL",IAH,"Houston, TX",4341.16
+265,MIA,"Miami, FL",JFK,"New York, NY",4972.47
+266,MIA,"Miami, FL",LAS,"Las Vegas, NV",12565.64
+267,MIA,"Miami, FL",LAX,"Los Angeles, CA",11802.93
+268,MIA,"Miami, FL",LGA,"New York, NY",11949.1
+269,MIA,"Miami, FL",MCO,"Orlando, FL",1715.12
+270,MIA,"Miami, FL",MIA,"Miami, FL",53.59
+271,MIA,"Miami, FL",MSP,"Minneapolis, MN",3379.48
+272,MIA,"Miami, FL",ORD,"Chicago, IL",6671.14
+273,MIA,"Miami, FL",PHL,"Philadelphia, PA",5642.59
+274,MIA,"Miami, FL",PHX,"Phoenix, AZ",8044.17
+275,MIA,"Miami, FL",SEA,"Seattle, WA",10988.75
+276,MIA,"Miami, FL",SFO,"San Francisco, CA",15742.7
+277,MSP,"Minneapolis, MN",ATL,"Atlanta, GA",4729.31
+278,MSP,"Minneapolis, MN",BOS,"Boston, MA",3192.16
+279,MSP,"Minneapolis, MN",CLT,"Charlotte, NC",2784.03
+280,MSP,"Minneapolis, MN",DEN,"Denver, CO",3032.81
+281,MSP,"Minneapolis, MN",DFW,"Dallas/Fort Worth, TX",3817.69
+282,MSP,"Minneapolis, MN",DTW,"Detroit, MI",1632.62
+283,MSP,"Minneapolis, MN",EWR,"Newark, NJ",4697.3
+284,MSP,"Minneapolis, MN",IAH,"Houston, TX",3098.06
+285,MSP,"Minneapolis, MN",JFK,"New York, NY",2906.55
+286,MSP,"Minneapolis, MN",LAS,"Las Vegas, NV",5438.25
+287,MSP,"Minneapolis, MN",LAX,"Los Angeles, CA",5650.52
+288,MSP,"Minneapolis, MN",LGA,"New York, NY",5842.31
+289,MSP,"Minneapolis, MN",MCO,"Orlando, FL",3580.48
+290,MSP,"Minneapolis, MN",MIA,"Miami, FL",3098.02
+291,MSP,"Minneapolis, MN",MSP,"Minneapolis, MN",41.25
+292,MSP,"Minneapolis, MN",ORD,"Chicago, IL",2003.07
+293,MSP,"Minneapolis, MN",PHL,"Philadelphia, PA",2550.0
+294,MSP,"Minneapolis, MN",PHX,"Phoenix, AZ",5076.57
+295,MSP,"Minneapolis, MN",SEA,"Seattle, WA",4748.17
+296,MSP,"Minneapolis, MN",SFO,"San Francisco, CA",5075.28
+297,ORD,"Chicago, IL",ATL,"Atlanta, GA",3267.48
+298,ORD,"Chicago, IL",BOS,"Boston, MA",6996.32
+299,ORD,"Chicago, IL",CLT,"Charlotte, NC",3580.67
+300,ORD,"Chicago, IL",DEN,"Denver, CO",5029.58
+301,ORD,"Chicago, IL",DFW,"Dallas/Fort Worth, TX",7560.62
+302,ORD,"Chicago, IL",DTW,"Detroit, MI",1156.05
+303,ORD,"Chicago, IL",EWR,"Newark, NJ",3759.2
+304,ORD,"Chicago, IL",IAH,"Houston, TX",6127.69
+305,ORD,"Chicago, IL",JFK,"New York, NY",2009.54
+306,ORD,"Chicago, IL",LAS,"Las Vegas, NV",11887.72
+307,ORD,"Chicago, IL",LAX,"Los Angeles, CA",13289.71
+308,ORD,"Chicago, IL",LGA,"New York, NY",12405.7
+309,ORD,"Chicago, IL",MCO,"Orlando, FL",6163.96
+310,ORD,"Chicago, IL",MIA,"Miami, FL",5623.8
+311,ORD,"Chicago, IL",MSP,"Minneapolis, MN",2269.2
+312,ORD,"Chicago, IL",ORD,"Chicago, IL",49.35
+313,ORD,"Chicago, IL",PHL,"Philadelphia, PA",3649.02
+314,ORD,"Chicago, IL",PHX,"Phoenix, AZ",10309.66
+315,ORD,"Chicago, IL",SEA,"Seattle, WA",13373.59
+316,ORD,"Chicago, IL",SFO,"San Francisco, CA",15210.38
+317,PHL,"Philadelphia, PA",ATL,"Atlanta, GA",3820.72
+318,PHL,"Philadelphia, PA",BOS,"Boston, MA",2696.25
+319,PHL,"Philadelphia, PA",CLT,"Charlotte, NC",1878.5
+320,PHL,"Philadelphia, PA",DEN,"Denver, CO",6080.92
+321,PHL,"Philadelphia, PA",DFW,"Dallas/Fort Worth, TX",9167.08
+322,PHL,"Philadelphia, PA",DTW,"Detroit, MI",1945.33
+323,PHL,"Philadelphia, PA",EWR,"Newark, NJ",852.48
+324,PHL,"Philadelphia, PA",IAH,"Houston, TX",7239.95
+325,PHL,"Philadelphia, PA",JFK,"New York, NY",166.52
+326,PHL,"Philadelphia, PA",LAS,"Las Vegas, NV",14702.34
+327,PHL,"Philadelphia, PA",LAX,"Los Angeles, CA",14342.67
+328,PHL,"Philadelphia, PA",LGA,"New York, NY",1372.72
+329,PHL,"Philadelphia, PA",MCO,"Orlando, FL",5022.06
+330,PHL,"Philadelphia, PA",MIA,"Miami, FL",5392.6
+331,PHL,"Philadelphia, PA",MSP,"Minneapolis, MN",2926.85
+332,PHL,"Philadelphia, PA",ORD,"Chicago, IL",4371.72
+333,PHL,"Philadelphia, PA",PHL,"Philadelphia, PA",104.33
+334,PHL,"Philadelphia, PA",PHX,"Phoenix, AZ",13677.53
+335,PHL,"Philadelphia, PA",SEA,"Seattle, WA",10293.07
+336,PHL,"Philadelphia, PA",SFO,"San Francisco, CA",13065.14
+337,PHX,"Phoenix, AZ",ATL,"Atlanta, GA",8099.97
+338,PHX,"Phoenix, AZ",BOS,"Boston, MA",9709.22
+339,PHX,"Phoenix, AZ",CLT,"Charlotte, NC",12776.34
+340,PHX,"Phoenix, AZ",DEN,"Denver, CO",3421.3
+341,PHX,"Phoenix, AZ",DFW,"Dallas/Fort Worth, TX",6922.93
+342,PHX,"Phoenix, AZ",DTW,"Detroit, MI",5936.78
+343,PHX,"Phoenix, AZ",EWR,"Newark, NJ",9111.8
+344,PHX,"Phoenix, AZ",IAH,"Houston, TX",5085.39
+345,PHX,"Phoenix, AZ",JFK,"New York, NY",9760.76
+346,PHX,"Phoenix, AZ",LAS,"Las Vegas, NV",2882.24
+347,PHX,"Phoenix, AZ",LAX,"Los Angeles, CA",2971.01
+348,PHX,"Phoenix, AZ",LGA,"New York, NY",252.0
+349,PHX,"Phoenix, AZ",MCO,"Orlando, FL",7116.51
+350,PHX,"Phoenix, AZ",MIA,"Miami, FL",6139.31
+351,PHX,"Phoenix, AZ",MSP,"Minneapolis, MN",4395.33
+352,PHX,"Phoenix, AZ",ORD,"Chicago, IL",8894.0
+353,PHX,"Phoenix, AZ",PHL,"Philadelphia, PA",10420.94
+354,PHX,"Phoenix, AZ",PHX,"Phoenix, AZ",36.5
+355,PHX,"Phoenix, AZ",SEA,"Seattle, WA",6801.19
+356,PHX,"Phoenix, AZ",SFO,"San Francisco, CA",3469.02
+357,SEA,"Seattle, WA",ATL,"Atlanta, GA",9783.18
+358,SEA,"Seattle, WA",BOS,"Boston, MA",10417.04
+359,SEA,"Seattle, WA",CLT,"Charlotte, NC",6886.62
+360,SEA,"Seattle, WA",DEN,"Denver, CO",4593.22
+361,SEA,"Seattle, WA",DFW,"Dallas/Fort Worth, TX",10713.69
+362,SEA,"Seattle, WA",DTW,"Detroit, MI",6018.23
+363,SEA,"Seattle, WA",EWR,"Newark, NJ",10639.06
+364,SEA,"Seattle, WA",IAH,"Houston, TX",10981.23
+365,SEA,"Seattle, WA",JFK,"New York, NY",9856.81
+366,SEA,"Seattle, WA",LAS,"Las Vegas, NV",8020.22
+367,SEA,"Seattle, WA",LAX,"Los Angeles, CA",8050.82
+368,SEA,"Seattle, WA",LGA,"New York, NY",314.5
+369,SEA,"Seattle, WA",MCO,"Orlando, FL",11105.62
+370,SEA,"Seattle, WA",MIA,"Miami, FL",9427.58
+371,SEA,"Seattle, WA",MSP,"Minneapolis, MN",3976.57
+372,SEA,"Seattle, WA",ORD,"Chicago, IL",10490.01
+373,SEA,"Seattle, WA",PHL,"Philadelphia, PA",9452.29
+374,SEA,"Seattle, WA",PHX,"Phoenix, AZ",6332.46
+375,SEA,"Seattle, WA",SEA,"Seattle, WA",19.33
+376,SEA,"Seattle, WA",SFO,"San Francisco, CA",5255.05
+377,SFO,"San Francisco, CA",ATL,"Atlanta, GA",14791.72
+378,SFO,"San Francisco, CA",BOS,"Boston, MA",14109.15
+379,SFO,"San Francisco, CA",CLT,"Charlotte, NC",15176.21
+380,SFO,"San Francisco, CA",DEN,"Denver, CO",4913.62
+381,SFO,"San Francisco, CA",DFW,"Dallas/Fort Worth, TX",9279.38
+382,SFO,"San Francisco, CA",DTW,"Detroit, MI",7274.66
+383,SFO,"San Francisco, CA",EWR,"Newark, NJ",9129.86
+384,SFO,"San Francisco, CA",IAH,"Houston, TX",6140.13
+385,SFO,"San Francisco, CA",JFK,"New York, NY",20294.78
+386,SFO,"San Francisco, CA",LAS,"Las Vegas, NV",3254.99
+387,SFO,"San Francisco, CA",LAX,"Los Angeles, CA",4139.78
+388,SFO,"San Francisco, CA",LGA,"New York, NY",293.0
+389,SFO,"San Francisco, CA",MCO,"Orlando, FL",4717.06
+390,SFO,"San Francisco, CA",MIA,"Miami, FL",13422.26
+391,SFO,"San Francisco, CA",MSP,"Minneapolis, MN",4438.02
+392,SFO,"San Francisco, CA",ORD,"Chicago, IL",13909.54
+393,SFO,"San Francisco, CA",PHL,"Philadelphia, PA",11229.57
+394,SFO,"San Francisco, CA",PHX,"Phoenix, AZ",3244.65
+395,SFO,"San Francisco, CA",SEA,"Seattle, WA",4863.74

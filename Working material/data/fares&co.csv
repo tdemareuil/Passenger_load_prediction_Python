@@ -1,0 +1,1825 @@
+,Year,quarter,Departure,Arrival,miles_distance,daily_passengers,average_fare,DEP,ARR
+0,2011,1,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,1671,215.75,ATL,BOS
+1,2011,2,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2295,218.02,ATL,BOS
+2,2011,3,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2335,208.31,ATL,BOS
+3,2011,4,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2117,227.89,ATL,BOS
+4,2012,1,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,1704,235.04,ATL,BOS
+5,2012,2,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2335,226.73,ATL,BOS
+6,2012,3,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2437,196.87,ATL,BOS
+7,2012,4,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2255,203.29,ATL,BOS
+8,2013,1,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,1784,212.29,ATL,BOS
+9,2013,2,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2477,216.5,ATL,BOS
+10,2013,3,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2386,229.48,ATL,BOS
+11,2013,4,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",952,2392,222.41,ATL,BOS
+12,2011,1,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",227,392,151.95,ATL,CLT
+13,2011,2,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",227,430,170.7,ATL,CLT
+14,2011,3,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,381,171.73,ATL,CLT
+15,2011,4,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,370,165.83,ATL,CLT
+16,2012,1,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,399,176.71,ATL,CLT
+17,2012,2,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,438,151.17,ATL,CLT
+18,2012,3,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,436,136.41,ATL,CLT
+19,2012,4,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,456,133.28,ATL,CLT
+20,2013,1,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,486,132.64,ATL,CLT
+21,2013,2,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,366,204.49,ATL,CLT
+22,2013,3,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,283,255.88,ATL,CLT
+23,2013,4,"Atlanta, GA (Metropolitan Area)","Charlotte, NC",226,290,273.47,ATL,CLT
+24,2011,1,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,2302,173.68,ATL,ORD
+25,2011,2,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,3069,176.93,ATL,ORD
+26,2011,3,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,3080,170.34,ATL,ORD
+27,2011,4,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,2746,193.12,ATL,ORD
+28,2012,1,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,2537,174.84,ATL,ORD
+29,2012,2,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,3428,165.05,ATL,ORD
+30,2012,3,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,3170,172.4,ATL,ORD
+31,2012,4,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,3061,171.69,ATL,ORD
+32,2013,1,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,2562,173.66,ATL,ORD
+33,2013,2,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,3329,182.42,ATL,ORD
+34,2013,3,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,2884,212.47,ATL,ORD
+35,2013,4,"Atlanta, GA (Metropolitan Area)","Chicago, IL",606,2931,195.92,ATL,ORD
+36,2011,1,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",732,2128,200.9,ATL,DFW
+37,2011,2,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",732,2378,203.29,ATL,DFW
+38,2011,3,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2246,197.85,ATL,DFW
+39,2011,4,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2088,220.15,ATL,DFW
+40,2012,1,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2024,250.91,ATL,DFW
+41,2012,2,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2268,239.65,ATL,DFW
+42,2012,3,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2145,228.35,ATL,DFW
+43,2012,4,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2272,216.52,ATL,DFW
+44,2013,1,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2196,226.43,ATL,DFW
+45,2013,2,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2365,232.82,ATL,DFW
+46,2013,3,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2208,231.38,ATL,DFW
+47,2013,4,"Atlanta, GA (Metropolitan Area)","Dallas/Fort Worth, TX",731,2368,216.97,ATL,DFW
+48,2011,1,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1313,182.59,ATL,DEN
+49,2011,2,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1465,202.09,ATL,DEN
+50,2011,3,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1555,175.94,ATL,DEN
+51,2011,4,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1438,195.85,ATL,DEN
+52,2012,1,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1402,178.55,ATL,DEN
+53,2012,2,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1585,171.87,ATL,DEN
+54,2012,3,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1678,160.75,ATL,DEN
+55,2012,4,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1598,173.18,ATL,DEN
+56,2013,1,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1587,169.3,ATL,DEN
+57,2013,2,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1729,182.22,ATL,DEN
+58,2013,3,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1633,197.01,ATL,DEN
+59,2013,4,"Atlanta, GA (Metropolitan Area)","Denver, CO",1199,1718,179.46,ATL,DEN
+60,2011,1,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,976,188.72,ATL,DTW
+61,2011,2,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1287,192.49,ATL,DTW
+62,2011,3,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1252,184.39,ATL,DTW
+63,2011,4,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1123,204.87,ATL,DTW
+64,2012,1,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,913,229.27,ATL,DTW
+65,2012,2,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1277,200.35,ATL,DTW
+66,2012,3,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1225,186.37,ATL,DTW
+67,2012,4,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1197,196.94,ATL,DTW
+68,2013,1,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,943,211.14,ATL,DTW
+69,2013,2,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1328,219.69,ATL,DTW
+70,2013,3,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1136,244.6,ATL,DTW
+71,2013,4,"Atlanta, GA (Metropolitan Area)","Detroit, MI",594,1269,211.68,ATL,DTW
+72,2011,1,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1252,207.95,ATL,IAH
+73,2011,2,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1503,214.6,ATL,IAH
+74,2011,3,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1373,203.41,ATL,IAH
+75,2011,4,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1417,211.15,ATL,IAH
+76,2012,1,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1454,204.08,ATL,IAH
+77,2012,2,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1743,192.26,ATL,IAH
+78,2012,3,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1612,176.59,ATL,IAH
+79,2012,4,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1716,174.66,ATL,IAH
+80,2013,1,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1588,185.98,ATL,IAH
+81,2013,2,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1726,207.42,ATL,IAH
+82,2013,3,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1477,233.93,ATL,IAH
+83,2013,4,"Atlanta, GA (Metropolitan Area)","Houston, TX",696,1884,197.08,ATL,IAH
+84,2011,1,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1380,228.25,ATL,LAS
+85,2011,2,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1455,237.43,ATL,LAS
+86,2011,3,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1274,230.24,ATL,LAS
+87,2011,4,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1274,239.82,ATL,LAS
+88,2012,1,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1414,241.58,ATL,LAS
+89,2012,2,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1519,234.42,ATL,LAS
+90,2012,3,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1237,237.96,ATL,LAS
+91,2012,4,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1236,240.79,ATL,LAS
+92,2013,1,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1363,246.87,ATL,LAS
+93,2013,2,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1504,247.33,ATL,LAS
+94,2013,3,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1286,253.42,ATL,LAS
+95,2013,4,"Atlanta, GA (Metropolitan Area)","Las Vegas, NV",1747,1416,242.74,ATL,LAS
+96,2011,1,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1946,2331,242.78,ATL,LAX
+97,2011,2,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1946,2993,237.91,ATL,LAX
+98,2011,3,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1946,2761,250.1,ATL,LAX
+99,2011,4,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2667,256.13,ATL,LAX
+100,2012,1,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2339,258.51,ATL,LAX
+101,2012,2,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2943,262.96,ATL,LAX
+102,2012,3,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2805,251.9,ATL,LAX
+103,2012,4,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2664,267.67,ATL,LAX
+104,2013,1,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2346,276.97,ATL,LAX
+105,2013,2,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2979,277.7,ATL,LAX
+106,2013,3,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2618,300.99,ATL,LAX
+107,2013,4,"Atlanta, GA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",1947,2704,297.13,ATL,LAX
+108,2011,1,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",595,3051,133.57,ATL,MIA
+109,2011,2,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",595,3517,144.87,ATL,MIA
+110,2011,3,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,3115,125.48,ATL,MIA
+111,2011,4,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,3335,125.31,ATL,MIA
+112,2012,1,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,3154,143.94,ATL,MIA
+113,2012,2,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,3461,130.12,ATL,MIA
+114,2012,3,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,3039,124.34,ATL,MIA
+115,2012,4,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,2898,154.4,ATL,MIA
+116,2013,1,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,2875,166.15,ATL,MIA
+117,2013,2,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,3240,154.15,ATL,MIA
+118,2013,3,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,2668,162.9,ATL,MIA
+119,2013,4,"Atlanta, GA (Metropolitan Area)","Miami, FL (Metropolitan Area)",594,3372,159.03,ATL,MIA
+120,2011,1,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",906,964,200.59,ATL,MSP
+121,2011,2,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",906,1202,216.55,ATL,MSP
+122,2011,3,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,1272,205.98,ATL,MSP
+123,2011,4,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,1121,223.22,ATL,MSP
+124,2012,1,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,933,253.81,ATL,MSP
+125,2012,2,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,1148,231.47,ATL,MSP
+126,2012,3,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,1214,208.15,ATL,MSP
+127,2012,4,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,1077,216.15,ATL,MSP
+128,2013,1,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,909,243.33,ATL,MSP
+129,2013,2,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,1200,239.52,ATL,MSP
+130,2013,3,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,1075,267.36,ATL,MSP
+131,2013,4,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",907,1219,222.05,ATL,MSP
+132,2011,1,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,4788,205.0,ATL,JFK
+133,2011,2,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,6362,218.23,ATL,JFK
+134,2011,3,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,6033,205.29,ATL,JFK
+135,2011,4,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,5891,220.43,ATL,JFK
+136,2012,1,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,5016,224.2,ATL,JFK
+137,2012,2,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,6590,204.27,ATL,JFK
+138,2012,3,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,6702,184.52,ATL,JFK
+139,2012,4,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,6536,194.28,ATL,JFK
+140,2013,1,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,5447,197.2,ATL,JFK
+141,2013,2,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,6867,210.65,ATL,JFK
+142,2013,3,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,6298,229.22,ATL,JFK
+143,2013,4,"Atlanta, GA (Metropolitan Area)","New York City, NY (Metropolitan Area)",795,6419,230.28,ATL,JFK
+144,2011,1,"Atlanta, GA (Metropolitan Area)","Orlando, FL",403,1528,163.03,ATL,MCO
+145,2011,2,"Atlanta, GA (Metropolitan Area)","Orlando, FL",403,1484,186.5,ATL,MCO
+146,2011,3,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1306,160.58,ATL,MCO
+147,2011,4,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1368,167.32,ATL,MCO
+148,2012,1,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1488,186.2,ATL,MCO
+149,2012,2,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1554,154.71,ATL,MCO
+150,2012,3,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1365,142.11,ATL,MCO
+151,2012,4,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1622,147.71,ATL,MCO
+152,2013,1,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1687,157.68,ATL,MCO
+153,2013,2,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1844,150.2,ATL,MCO
+154,2013,3,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1347,168.46,ATL,MCO
+155,2013,4,"Atlanta, GA (Metropolitan Area)","Orlando, FL",404,1732,159.84,ATL,MCO
+156,2011,1,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",665,1667,177.21,ATL,PHL
+157,2011,2,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",665,2076,192.93,ATL,PHL
+158,2011,3,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,2066,174.92,ATL,PHL
+159,2011,4,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,1876,191.17,ATL,PHL
+160,2012,1,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,1564,209.58,ATL,PHL
+161,2012,2,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,2014,182.78,ATL,PHL
+162,2012,3,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,1959,170.34,ATL,PHL
+163,2012,4,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,1838,186.63,ATL,PHL
+164,2013,1,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,1471,206.53,ATL,PHL
+165,2013,2,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,1847,216.97,ATL,PHL
+166,2013,3,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,1454,246.26,ATL,PHL
+167,2013,4,"Atlanta, GA (Metropolitan Area)","Philadelphia, PA",666,1979,206.41,ATL,PHL
+168,2011,1,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,994,225.47,ATL,PHX
+169,2011,2,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,1005,209.54,ATL,PHX
+170,2011,3,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,863,190.23,ATL,PHX
+171,2011,4,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,973,215.89,ATL,PHX
+172,2012,1,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,935,221.41,ATL,PHX
+173,2012,2,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,1055,205.58,ATL,PHX
+174,2012,3,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,842,193.78,ATL,PHX
+175,2012,4,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,1025,216.89,ATL,PHX
+176,2013,1,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,901,235.26,ATL,PHX
+177,2013,2,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,978,244.46,ATL,PHX
+178,2013,3,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,737,260.19,ATL,PHX
+179,2013,4,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",1587,972,257.09,ATL,PHX
+180,2011,1,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1215,269.94,ATL,SFO
+181,2011,2,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1731,274.23,ATL,SFO
+182,2011,3,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1677,275.6,ATL,SFO
+183,2011,4,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1581,286.55,ATL,SFO
+184,2012,1,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1313,289.93,ATL,SFO
+185,2012,2,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1674,301.21,ATL,SFO
+186,2012,3,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1767,276.76,ATL,SFO
+187,2012,4,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1831,271.31,ATL,SFO
+188,2013,1,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1427,295.07,ATL,SFO
+189,2013,2,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1840,308.49,ATL,SFO
+190,2013,3,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1776,321.7,ATL,SFO
+191,2013,4,"Atlanta, GA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2139,1746,321.5,ATL,SFO
+192,2011,1,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,656,277.33,ATL,SEA
+193,2011,2,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,1047,276.91,ATL,SEA
+194,2011,3,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,1136,261.18,ATL,SEA
+195,2011,4,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,804,282.92,ATL,SEA
+196,2012,1,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,626,310.19,ATL,SEA
+197,2012,2,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,1030,276.3,ATL,SEA
+198,2012,3,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,1169,273.22,ATL,SEA
+199,2012,4,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,846,291.29,ATL,SEA
+200,2013,1,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,701,294.75,ATL,SEA
+201,2013,2,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,998,286.58,ATL,SEA
+202,2013,3,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,1113,302.67,ATL,SEA
+203,2013,4,"Atlanta, GA (Metropolitan Area)","Seattle, WA",2182,829,316.47,ATL,SEA
+204,2011,1,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1114,151.73,BOS,CLT
+205,2011,2,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1625,155.27,BOS,CLT
+206,2011,3,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1701,146.93,BOS,CLT
+207,2011,4,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1538,150.42,BOS,CLT
+208,2012,1,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1141,151.39,BOS,CLT
+209,2012,2,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1703,167.08,BOS,CLT
+210,2012,3,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1707,159.3,BOS,CLT
+211,2012,4,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1578,151.78,BOS,CLT
+212,2013,1,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1301,144.84,BOS,CLT
+213,2013,2,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1811,148.87,BOS,CLT
+214,2013,3,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1933,144.2,BOS,CLT
+215,2013,4,"Boston, MA (Metropolitan Area)","Charlotte, NC",737,1727,151.54,BOS,CLT
+216,2011,1,"Boston, MA (Metropolitan Area)","Chicago, IL",867,2510,181.14,BOS,ORD
+217,2011,2,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4104,196.12,BOS,ORD
+218,2011,3,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4534,176.17,BOS,ORD
+219,2011,4,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4159,172.83,BOS,ORD
+220,2012,1,"Boston, MA (Metropolitan Area)","Chicago, IL",867,3040,156.69,BOS,ORD
+221,2012,2,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4670,175.88,BOS,ORD
+222,2012,3,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4944,175.13,BOS,ORD
+223,2012,4,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4158,186.19,BOS,ORD
+224,2013,1,"Boston, MA (Metropolitan Area)","Chicago, IL",867,3030,168.48,BOS,ORD
+225,2013,2,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4668,179.89,BOS,ORD
+226,2013,3,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4846,183.67,BOS,ORD
+227,2013,4,"Boston, MA (Metropolitan Area)","Chicago, IL",867,4320,181.89,BOS,ORD
+228,2011,1,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1154,325.74,BOS,DFW
+229,2011,2,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1494,314.98,BOS,DFW
+230,2011,3,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1569,297.3,BOS,DFW
+231,2011,4,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1340,319.36,BOS,DFW
+232,2012,1,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1103,356.81,BOS,DFW
+233,2012,2,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1790,262.52,BOS,DFW
+234,2012,3,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1891,231.68,BOS,DFW
+235,2012,4,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1680,219.26,BOS,DFW
+236,2013,1,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1413,229.88,BOS,DFW
+237,2013,2,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1953,216.6,BOS,DFW
+238,2013,3,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1979,218.91,BOS,DFW
+239,2013,4,"Boston, MA (Metropolitan Area)","Dallas/Fort Worth, TX",1562,1708,230.82,BOS,DFW
+240,2011,1,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1298,215.02,BOS,DEN
+241,2011,2,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1651,228.17,BOS,DEN
+242,2011,3,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1978,233.35,BOS,DEN
+243,2011,4,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1582,211.57,BOS,DEN
+244,2012,1,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1390,198.34,BOS,DEN
+245,2012,2,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1826,223.31,BOS,DEN
+246,2012,3,"Boston, MA (Metropolitan Area)","Denver, CO",1754,2124,231.54,BOS,DEN
+247,2012,4,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1570,231.99,BOS,DEN
+248,2013,1,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1382,230.13,BOS,DEN
+249,2013,2,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1714,239.31,BOS,DEN
+250,2013,3,"Boston, MA (Metropolitan Area)","Denver, CO",1754,2097,255.21,BOS,DEN
+251,2013,4,"Boston, MA (Metropolitan Area)","Denver, CO",1754,1559,246.58,BOS,DEN
+252,2011,1,"Boston, MA (Metropolitan Area)","Detroit, MI",632,649,273.39,BOS,DTW
+253,2011,2,"Boston, MA (Metropolitan Area)","Detroit, MI",632,956,272.93,BOS,DTW
+254,2011,3,"Boston, MA (Metropolitan Area)","Detroit, MI",632,978,271.24,BOS,DTW
+255,2011,4,"Boston, MA (Metropolitan Area)","Detroit, MI",632,940,260.29,BOS,DTW
+256,2012,1,"Boston, MA (Metropolitan Area)","Detroit, MI",632,708,274.63,BOS,DTW
+257,2012,2,"Boston, MA (Metropolitan Area)","Detroit, MI",632,922,304.17,BOS,DTW
+258,2012,3,"Boston, MA (Metropolitan Area)","Detroit, MI",632,982,275.07,BOS,DTW
+259,2012,4,"Boston, MA (Metropolitan Area)","Detroit, MI",632,928,283.1,BOS,DTW
+260,2013,1,"Boston, MA (Metropolitan Area)","Detroit, MI",632,660,309.13,BOS,DTW
+261,2013,2,"Boston, MA (Metropolitan Area)","Detroit, MI",632,961,297.1,BOS,DTW
+262,2013,3,"Boston, MA (Metropolitan Area)","Detroit, MI",632,947,296.63,BOS,DTW
+263,2013,4,"Boston, MA (Metropolitan Area)","Detroit, MI",632,946,295.11,BOS,DTW
+264,2011,1,"Boston, MA (Metropolitan Area)","Houston, TX",1609,784,283.56,BOS,IAH
+265,2011,2,"Boston, MA (Metropolitan Area)","Houston, TX",1609,1107,274.95,BOS,IAH
+266,2011,3,"Boston, MA (Metropolitan Area)","Houston, TX",1609,1115,278.94,BOS,IAH
+267,2011,4,"Boston, MA (Metropolitan Area)","Houston, TX",1609,942,288.48,BOS,IAH
+268,2012,1,"Boston, MA (Metropolitan Area)","Houston, TX",1609,771,299.32,BOS,IAH
+269,2012,2,"Boston, MA (Metropolitan Area)","Houston, TX",1609,1040,309.45,BOS,IAH
+270,2012,3,"Boston, MA (Metropolitan Area)","Houston, TX",1609,1068,297.0,BOS,IAH
+271,2012,4,"Boston, MA (Metropolitan Area)","Houston, TX",1609,1018,305.69,BOS,IAH
+272,2013,1,"Boston, MA (Metropolitan Area)","Houston, TX",1609,817,313.7,BOS,IAH
+273,2013,2,"Boston, MA (Metropolitan Area)","Houston, TX",1609,1124,290.04,BOS,IAH
+274,2013,3,"Boston, MA (Metropolitan Area)","Houston, TX",1609,1333,243.45,BOS,IAH
+275,2013,4,"Boston, MA (Metropolitan Area)","Houston, TX",1609,1355,227.11,BOS,IAH
+276,2011,1,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1348,230.74,BOS,LAS
+277,2011,2,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1652,252.39,BOS,LAS
+278,2011,3,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1464,247.0,BOS,LAS
+279,2011,4,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1294,250.65,BOS,LAS
+280,2012,1,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1301,247.44,BOS,LAS
+281,2012,2,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1625,263.22,BOS,LAS
+282,2012,3,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1304,252.61,BOS,LAS
+283,2012,4,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1284,242.82,BOS,LAS
+284,2013,1,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1281,250.88,BOS,LAS
+285,2013,2,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1565,256.52,BOS,LAS
+286,2013,3,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1383,250.79,BOS,LAS
+287,2013,4,"Boston, MA (Metropolitan Area)","Las Vegas, NV",2381,1259,250.37,BOS,LAS
+288,2011,1,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,2597,261.47,BOS,LAX
+289,2011,2,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3483,291.19,BOS,LAX
+290,2011,3,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3522,301.57,BOS,LAX
+291,2011,4,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3076,282.77,BOS,LAX
+292,2012,1,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,2693,264.59,BOS,LAX
+293,2012,2,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3524,307.64,BOS,LAX
+294,2012,3,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3638,304.98,BOS,LAX
+295,2012,4,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3278,288.78,BOS,LAX
+296,2013,1,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,2702,279.87,BOS,LAX
+297,2013,2,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3677,295.38,BOS,LAX
+298,2013,3,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3836,302.71,BOS,LAX
+299,2013,4,"Boston, MA (Metropolitan Area)","Los Angeles, CA (Metropolitan Area)",2611,3293,291.15,BOS,LAX
+300,2011,1,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1284,4017,186.73,BOS,MIA
+301,2011,2,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1284,3392,180.83,BOS,MIA
+302,2011,3,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,2722,166.25,BOS,MIA
+303,2011,4,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,3085,187.39,BOS,MIA
+304,2012,1,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,4046,199.99,BOS,MIA
+305,2012,2,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,3323,201.18,BOS,MIA
+306,2012,3,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,2625,180.76,BOS,MIA
+307,2012,4,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,3313,191.74,BOS,MIA
+308,2013,1,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,4185,197.89,BOS,MIA
+309,2013,2,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,3466,186.08,BOS,MIA
+310,2013,3,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,2788,174.63,BOS,MIA
+311,2013,4,"Boston, MA (Metropolitan Area)","Miami, FL (Metropolitan Area)",1283,3373,197.84,BOS,MIA
+312,2011,1,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,733,277.46,BOS,MSP
+313,2011,2,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1294,258.76,BOS,MSP
+314,2011,3,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1461,244.29,BOS,MSP
+315,2011,4,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1125,261.41,BOS,MSP
+316,2012,1,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,775,285.78,BOS,MSP
+317,2012,2,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1295,281.49,BOS,MSP
+318,2012,3,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1438,254.85,BOS,MSP
+319,2012,4,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1108,275.65,BOS,MSP
+320,2013,1,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,783,290.16,BOS,MSP
+321,2013,2,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1306,281.99,BOS,MSP
+322,2013,3,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1371,277.64,BOS,MSP
+323,2013,4,"Boston, MA (Metropolitan Area)","Minneapolis/St. Paul, MN",1124,1174,271.12,BOS,MSP
+324,2011,1,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,2834,231.78,BOS,JFK
+325,2011,2,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3940,216.95,BOS,JFK
+326,2011,3,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3558,192.74,BOS,JFK
+327,2011,4,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3671,190.77,BOS,JFK
+328,2012,1,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3300,194.98,BOS,JFK
+329,2012,2,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3883,201.31,BOS,JFK
+330,2012,3,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3573,191.49,BOS,JFK
+331,2012,4,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3680,184.31,BOS,JFK
+332,2013,1,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3350,193.27,BOS,JFK
+333,2013,2,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,4073,198.38,BOS,JFK
+334,2013,3,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3596,191.7,BOS,JFK
+335,2013,4,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",209,3916,197.65,BOS,JFK
+336,2011,1,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,4380,160.8,BOS,MCO
+337,2011,2,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,4524,169.39,BOS,MCO
+338,2011,3,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,3654,147.78,BOS,MCO
+339,2011,4,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,3961,168.78,BOS,MCO
+340,2012,1,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,4314,179.97,BOS,MCO
+341,2012,2,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,4396,186.12,BOS,MCO
+342,2012,3,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,3403,163.49,BOS,MCO
+343,2012,4,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,4043,168.38,BOS,MCO
+344,2013,1,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,4838,164.15,BOS,MCO
+345,2013,2,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,5029,160.82,BOS,MCO
+346,2013,3,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,4049,144.94,BOS,MCO
+347,2013,4,"Boston, MA (Metropolitan Area)","Orlando, FL",1142,4242,171.76,BOS,MCO
+348,2011,1,"Boston, MA (Metropolitan Area)","Philadelphia, PA",290,2233,135.72,BOS,PHL
+349,2011,2,"Boston, MA (Metropolitan Area)","Philadelphia, PA",290,2799,143.13,BOS,PHL
+350,2011,3,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,2470,133.44,BOS,PHL
+351,2011,4,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,2659,126.75,BOS,PHL
+352,2012,1,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,1847,191.46,BOS,PHL
+353,2012,2,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,1752,252.35,BOS,PHL
+354,2012,3,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,1543,254.01,BOS,PHL
+355,2012,4,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,1538,256.72,BOS,PHL
+356,2013,1,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,1341,281.64,BOS,PHL
+357,2013,2,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,2000,213.99,BOS,PHL
+358,2013,3,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,2295,149.44,BOS,PHL
+359,2013,4,"Boston, MA (Metropolitan Area)","Philadelphia, PA",289,2281,159.32,BOS,PHL
+360,2011,1,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1191,214.2,BOS,PHX
+361,2011,2,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1409,224.51,BOS,PHX
+362,2011,3,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1173,215.21,BOS,PHX
+363,2011,4,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1246,225.01,BOS,PHX
+364,2012,1,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1190,215.65,BOS,PHX
+365,2012,2,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1411,232.58,BOS,PHX
+366,2012,3,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1112,234.12,BOS,PHX
+367,2012,4,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1185,240.33,BOS,PHX
+368,2013,1,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1102,244.01,BOS,PHX
+369,2013,2,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1290,247.73,BOS,PHX
+370,2013,3,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1169,238.82,BOS,PHX
+371,2013,4,"Boston, MA (Metropolitan Area)","Phoenix, AZ",2300,1177,243.36,BOS,PHX
+372,2011,1,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,2517,296.05,BOS,SFO
+373,2011,2,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,3526,317.43,BOS,SFO
+374,2011,3,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,3709,319.63,BOS,SFO
+375,2011,4,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,3235,302.87,BOS,SFO
+376,2012,1,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,2630,284.22,BOS,SFO
+377,2012,2,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,3722,326.7,BOS,SFO
+378,2012,3,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,3962,327.71,BOS,SFO
+379,2012,4,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,3414,326.23,BOS,SFO
+380,2013,1,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,2712,338.24,BOS,SFO
+381,2013,2,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,4012,335.85,BOS,SFO
+382,2013,3,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,4219,337.23,BOS,SFO
+383,2013,4,"Boston, MA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2704,3617,326.97,BOS,SFO
+384,2011,1,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,720,247.92,BOS,SEA
+385,2011,2,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,1118,290.19,BOS,SEA
+386,2011,3,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,1384,297.27,BOS,SEA
+387,2011,4,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,951,274.34,BOS,SEA
+388,2012,1,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,735,255.47,BOS,SEA
+389,2012,2,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,1151,290.9,BOS,SEA
+390,2012,3,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,1327,308.66,BOS,SEA
+391,2012,4,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,971,292.37,BOS,SEA
+392,2013,1,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,693,282.85,BOS,SEA
+393,2013,2,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,1148,286.97,BOS,SEA
+394,2013,3,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,1458,294.23,BOS,SEA
+395,2013,4,"Boston, MA (Metropolitan Area)","Seattle, WA",2496,1042,263.39,BOS,SEA
+396,2011,1,"Charlotte, NC","Chicago, IL",599,751,241.1,CLT,ORD
+397,2011,2,"Charlotte, NC","Chicago, IL",599,1016,239.29,CLT,ORD
+398,2011,3,"Charlotte, NC","Chicago, IL",599,1000,225.43,CLT,ORD
+399,2011,4,"Charlotte, NC","Chicago, IL",599,894,239.54,CLT,ORD
+400,2012,1,"Charlotte, NC","Chicago, IL",599,689,275.7,CLT,ORD
+401,2012,2,"Charlotte, NC","Chicago, IL",599,984,240.24,CLT,ORD
+402,2012,3,"Charlotte, NC","Chicago, IL",599,987,257.74,CLT,ORD
+403,2012,4,"Charlotte, NC","Chicago, IL",599,966,248.33,CLT,ORD
+404,2013,1,"Charlotte, NC","Chicago, IL",599,772,266.08,CLT,ORD
+405,2013,2,"Charlotte, NC","Chicago, IL",599,1293,199.55,CLT,ORD
+406,2013,3,"Charlotte, NC","Chicago, IL",599,1101,223.31,CLT,ORD
+407,2013,4,"Charlotte, NC","Chicago, IL",599,1149,210.7,CLT,ORD
+408,2011,1,"Charlotte, NC","Dallas/Fort Worth, TX",936,629,275.13,CLT,DFW
+409,2011,2,"Charlotte, NC","Dallas/Fort Worth, TX",936,741,268.58,CLT,DFW
+410,2011,3,"Charlotte, NC","Dallas/Fort Worth, TX",936,658,273.86,CLT,DFW
+411,2011,4,"Charlotte, NC","Dallas/Fort Worth, TX",936,569,320.96,CLT,DFW
+412,2012,1,"Charlotte, NC","Dallas/Fort Worth, TX",936,600,309.67,CLT,DFW
+413,2012,2,"Charlotte, NC","Dallas/Fort Worth, TX",936,754,297.69,CLT,DFW
+414,2012,3,"Charlotte, NC","Dallas/Fort Worth, TX",936,628,301.01,CLT,DFW
+415,2012,4,"Charlotte, NC","Dallas/Fort Worth, TX",936,746,264.22,CLT,DFW
+416,2013,1,"Charlotte, NC","Dallas/Fort Worth, TX",936,637,291.24,CLT,DFW
+417,2013,2,"Charlotte, NC","Dallas/Fort Worth, TX",936,750,302.65,CLT,DFW
+418,2013,3,"Charlotte, NC","Dallas/Fort Worth, TX",936,674,303.68,CLT,DFW
+419,2013,4,"Charlotte, NC","Dallas/Fort Worth, TX",936,747,282.11,CLT,DFW
+420,2011,1,"Charlotte, NC","Denver, CO",1338,312,296.25,CLT,DEN
+421,2011,2,"Charlotte, NC","Denver, CO",1338,366,292.97,CLT,DEN
+422,2011,3,"Charlotte, NC","Denver, CO",1337,391,296.21,CLT,DEN
+423,2011,4,"Charlotte, NC","Denver, CO",1337,375,274.79,CLT,DEN
+424,2012,1,"Charlotte, NC","Denver, CO",1337,347,281.24,CLT,DEN
+425,2012,2,"Charlotte, NC","Denver, CO",1337,395,285.72,CLT,DEN
+426,2012,3,"Charlotte, NC","Denver, CO",1337,427,293.69,CLT,DEN
+427,2012,4,"Charlotte, NC","Denver, CO",1337,399,293.73,CLT,DEN
+428,2013,1,"Charlotte, NC","Denver, CO",1337,365,293.58,CLT,DEN
+429,2013,2,"Charlotte, NC","Denver, CO",1337,469,281.28,CLT,DEN
+430,2013,3,"Charlotte, NC","Denver, CO",1337,475,293.77,CLT,DEN
+431,2013,4,"Charlotte, NC","Denver, CO",1337,447,277.62,CLT,DEN
+432,2011,1,"Charlotte, NC","Detroit, MI",500,324,255.95,CLT,DTW
+433,2011,2,"Charlotte, NC","Detroit, MI",500,386,233.3,CLT,DTW
+434,2011,3,"Charlotte, NC","Detroit, MI",500,393,236.79,CLT,DTW
+435,2011,4,"Charlotte, NC","Detroit, MI",500,338,267.95,CLT,DTW
+436,2012,1,"Charlotte, NC","Detroit, MI",500,318,277.97,CLT,DTW
+437,2012,2,"Charlotte, NC","Detroit, MI",500,426,256.87,CLT,DTW
+438,2012,3,"Charlotte, NC","Detroit, MI",500,357,276.51,CLT,DTW
+439,2012,4,"Charlotte, NC","Detroit, MI",500,390,261.57,CLT,DTW
+440,2013,1,"Charlotte, NC","Detroit, MI",500,311,299.88,CLT,DTW
+441,2013,2,"Charlotte, NC","Detroit, MI",500,380,291.03,CLT,DTW
+442,2013,3,"Charlotte, NC","Detroit, MI",500,351,295.11,CLT,DTW
+443,2013,4,"Charlotte, NC","Detroit, MI",500,380,288.43,CLT,DTW
+444,2011,1,"Charlotte, NC","Houston, TX",920,374,269.57,CLT,IAH
+445,2011,2,"Charlotte, NC","Houston, TX",920,419,279.25,CLT,IAH
+446,2011,3,"Charlotte, NC","Houston, TX",920,394,273.2,CLT,IAH
+447,2011,4,"Charlotte, NC","Houston, TX",920,349,298.66,CLT,IAH
+448,2012,1,"Charlotte, NC","Houston, TX",920,318,358.81,CLT,IAH
+449,2012,2,"Charlotte, NC","Houston, TX",920,364,358.02,CLT,IAH
+450,2012,3,"Charlotte, NC","Houston, TX",920,367,336.37,CLT,IAH
+451,2012,4,"Charlotte, NC","Houston, TX",920,381,319.97,CLT,IAH
+452,2013,1,"Charlotte, NC","Houston, TX",920,352,321.61,CLT,IAH
+453,2013,2,"Charlotte, NC","Houston, TX",920,470,274.39,CLT,IAH
+454,2013,3,"Charlotte, NC","Houston, TX",920,420,305.14,CLT,IAH
+455,2013,4,"Charlotte, NC","Houston, TX",920,489,269.51,CLT,IAH
+456,2011,1,"Charlotte, NC","Las Vegas, NV",1916,590,248.27,CLT,LAS
+457,2011,2,"Charlotte, NC","Las Vegas, NV",1916,605,243.6,CLT,LAS
+458,2011,3,"Charlotte, NC","Las Vegas, NV",1916,539,247.91,CLT,LAS
+459,2011,4,"Charlotte, NC","Las Vegas, NV",1916,513,262.71,CLT,LAS
+460,2012,1,"Charlotte, NC","Las Vegas, NV",1916,526,270.9,CLT,LAS
+461,2012,2,"Charlotte, NC","Las Vegas, NV",1916,607,264.81,CLT,LAS
+462,2012,3,"Charlotte, NC","Las Vegas, NV",1916,477,265.23,CLT,LAS
+463,2012,4,"Charlotte, NC","Las Vegas, NV",1916,508,257.78,CLT,LAS
+464,2013,1,"Charlotte, NC","Las Vegas, NV",1916,609,258.5,CLT,LAS
+465,2013,2,"Charlotte, NC","Las Vegas, NV",1916,624,253.72,CLT,LAS
+466,2013,3,"Charlotte, NC","Las Vegas, NV",1916,595,255.72,CLT,LAS
+467,2013,4,"Charlotte, NC","Las Vegas, NV",1916,559,251.46,CLT,LAS
+468,2011,1,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,693,291.46,CLT,LAX
+469,2011,2,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,848,298.36,CLT,LAX
+470,2011,3,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,772,313.54,CLT,LAX
+471,2011,4,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,799,302.61,CLT,LAX
+472,2012,1,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,647,330.17,CLT,LAX
+473,2012,2,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,915,301.89,CLT,LAX
+474,2012,3,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,860,302.25,CLT,LAX
+475,2012,4,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,825,311.77,CLT,LAX
+476,2013,1,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,712,335.1,CLT,LAX
+477,2013,2,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,900,319.46,CLT,LAX
+478,2013,3,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,878,325.92,CLT,LAX
+479,2013,4,"Charlotte, NC","Los Angeles, CA (Metropolitan Area)",2125,885,318.19,CLT,LAX
+480,2011,1,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,775,193.05,CLT,MIA
+481,2011,2,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,838,197.4,CLT,MIA
+482,2011,3,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,669,211.5,CLT,MIA
+483,2011,4,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,794,207.3,CLT,MIA
+484,2012,1,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,736,229.44,CLT,MIA
+485,2012,2,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,749,223.57,CLT,MIA
+486,2012,3,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,647,223.27,CLT,MIA
+487,2012,4,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,768,221.94,CLT,MIA
+488,2013,1,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,776,231.15,CLT,MIA
+489,2013,2,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,753,222.84,CLT,MIA
+490,2013,3,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,636,235.4,CLT,MIA
+491,2013,4,"Charlotte, NC","Miami, FL (Metropolitan Area)",650,774,232.61,CLT,MIA
+492,2011,1,"Charlotte, NC","Minneapolis/St. Paul, MN",930,314,257.59,CLT,MSP
+493,2011,2,"Charlotte, NC","Minneapolis/St. Paul, MN",930,442,252.18,CLT,MSP
+494,2011,3,"Charlotte, NC","Minneapolis/St. Paul, MN",930,454,247.4,CLT,MSP
+495,2011,4,"Charlotte, NC","Minneapolis/St. Paul, MN",930,426,259.41,CLT,MSP
+496,2012,1,"Charlotte, NC","Minneapolis/St. Paul, MN",930,285,333.81,CLT,MSP
+497,2012,2,"Charlotte, NC","Minneapolis/St. Paul, MN",930,422,309.8,CLT,MSP
+498,2012,3,"Charlotte, NC","Minneapolis/St. Paul, MN",930,452,268.69,CLT,MSP
+499,2012,4,"Charlotte, NC","Minneapolis/St. Paul, MN",930,409,272.5,CLT,MSP
+500,2013,1,"Charlotte, NC","Minneapolis/St. Paul, MN",930,320,319.48,CLT,MSP
+501,2013,2,"Charlotte, NC","Minneapolis/St. Paul, MN",930,432,302.92,CLT,MSP
+502,2013,3,"Charlotte, NC","Minneapolis/St. Paul, MN",930,438,323.42,CLT,MSP
+503,2013,4,"Charlotte, NC","Minneapolis/St. Paul, MN",930,419,305.05,CLT,MSP
+504,2011,1,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,2463,165.76,CLT,JFK
+505,2011,2,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,3086,175.46,CLT,JFK
+506,2011,3,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,2813,180.95,CLT,JFK
+507,2011,4,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,2970,177.87,CLT,JFK
+508,2012,1,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,2360,184.67,CLT,JFK
+509,2012,2,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,3263,172.7,CLT,JFK
+510,2012,3,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,3298,163.26,CLT,JFK
+511,2012,4,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,3513,148.51,CLT,JFK
+512,2013,1,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,2928,152.05,CLT,JFK
+513,2013,2,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,3497,168.1,CLT,JFK
+514,2013,3,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,3195,186.49,CLT,JFK
+515,2013,4,"Charlotte, NC","New York City, NY (Metropolitan Area)",575,3571,178.03,CLT,JFK
+516,2011,1,"Charlotte, NC","Orlando, FL",468,755,153.17,CLT,MCO
+517,2011,2,"Charlotte, NC","Orlando, FL",468,727,155.23,CLT,MCO
+518,2011,3,"Charlotte, NC","Orlando, FL",468,613,149.45,CLT,MCO
+519,2011,4,"Charlotte, NC","Orlando, FL",468,803,138.61,CLT,MCO
+520,2012,1,"Charlotte, NC","Orlando, FL",468,813,151.5,CLT,MCO
+521,2012,2,"Charlotte, NC","Orlando, FL",468,891,133.71,CLT,MCO
+522,2012,3,"Charlotte, NC","Orlando, FL",468,579,168.62,CLT,MCO
+523,2012,4,"Charlotte, NC","Orlando, FL",468,525,220.63,CLT,MCO
+524,2013,1,"Charlotte, NC","Orlando, FL",468,571,224.53,CLT,MCO
+525,2013,2,"Charlotte, NC","Orlando, FL",468,796,148.97,CLT,MCO
+526,2013,3,"Charlotte, NC","Orlando, FL",468,583,183.43,CLT,MCO
+527,2013,4,"Charlotte, NC","Orlando, FL",468,761,168.46,CLT,MCO
+528,2011,1,"Charlotte, NC","Philadelphia, PA",448,534,265.84,CLT,PHL
+529,2011,2,"Charlotte, NC","Philadelphia, PA",448,677,246.66,CLT,PHL
+530,2011,3,"Charlotte, NC","Philadelphia, PA",449,602,250.44,CLT,PHL
+531,2011,4,"Charlotte, NC","Philadelphia, PA",449,573,244.59,CLT,PHL
+532,2012,1,"Charlotte, NC","Philadelphia, PA",449,544,262.21,CLT,PHL
+533,2012,2,"Charlotte, NC","Philadelphia, PA",449,626,261.29,CLT,PHL
+534,2012,3,"Charlotte, NC","Philadelphia, PA",449,536,261.08,CLT,PHL
+535,2012,4,"Charlotte, NC","Philadelphia, PA",449,532,262.12,CLT,PHL
+536,2013,1,"Charlotte, NC","Philadelphia, PA",449,549,261.66,CLT,PHL
+537,2013,2,"Charlotte, NC","Philadelphia, PA",449,637,269.18,CLT,PHL
+538,2013,3,"Charlotte, NC","Philadelphia, PA",449,557,275.71,CLT,PHL
+539,2013,4,"Charlotte, NC","Philadelphia, PA",449,603,269.08,CLT,PHL
+540,2011,1,"Charlotte, NC","Phoenix, AZ",1774,404,268.98,CLT,PHX
+541,2011,2,"Charlotte, NC","Phoenix, AZ",1774,403,273.97,CLT,PHX
+542,2011,3,"Charlotte, NC","Phoenix, AZ",1773,297,312.36,CLT,PHX
+543,2011,4,"Charlotte, NC","Phoenix, AZ",1773,363,303.42,CLT,PHX
+544,2012,1,"Charlotte, NC","Phoenix, AZ",1773,346,322.44,CLT,PHX
+545,2012,2,"Charlotte, NC","Phoenix, AZ",1773,368,309.09,CLT,PHX
+546,2012,3,"Charlotte, NC","Phoenix, AZ",1773,301,303.16,CLT,PHX
+547,2012,4,"Charlotte, NC","Phoenix, AZ",1773,397,300.49,CLT,PHX
+548,2013,1,"Charlotte, NC","Phoenix, AZ",1773,424,305.05,CLT,PHX
+549,2013,2,"Charlotte, NC","Phoenix, AZ",1773,457,304.35,CLT,PHX
+550,2013,3,"Charlotte, NC","Phoenix, AZ",1773,381,288.99,CLT,PHX
+551,2013,4,"Charlotte, NC","Phoenix, AZ",1773,491,285.87,CLT,PHX
+552,2011,1,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,472,333.68,CLT,SFO
+553,2011,2,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,645,323.63,CLT,SFO
+554,2011,3,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,584,342.16,CLT,SFO
+555,2011,4,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,542,339.03,CLT,SFO
+556,2012,1,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,504,342.26,CLT,SFO
+557,2012,2,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,661,348.08,CLT,SFO
+558,2012,3,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,635,339.53,CLT,SFO
+559,2012,4,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,567,356.76,CLT,SFO
+560,2013,1,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,502,358.92,CLT,SFO
+561,2013,2,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,723,342.16,CLT,SFO
+562,2013,3,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,738,339.18,CLT,SFO
+563,2013,4,"Charlotte, NC","San Francisco, CA (Metropolitan Area)",2296,728,320.52,CLT,SFO
+564,2011,1,"Charlotte, NC","Seattle, WA",2279,201,299.77,CLT,SEA
+565,2011,2,"Charlotte, NC","Seattle, WA",2279,325,282.18,CLT,SEA
+566,2011,3,"Charlotte, NC","Seattle, WA",2279,386,294.22,CLT,SEA
+567,2011,4,"Charlotte, NC","Seattle, WA",2279,264,287.63,CLT,SEA
+568,2012,1,"Charlotte, NC","Seattle, WA",2279,199,306.71,CLT,SEA
+569,2012,2,"Charlotte, NC","Seattle, WA",2279,316,308.97,CLT,SEA
+570,2012,3,"Charlotte, NC","Seattle, WA",2279,372,310.8,CLT,SEA
+571,2012,4,"Charlotte, NC","Seattle, WA",2279,231,330.2,CLT,SEA
+572,2013,1,"Charlotte, NC","Seattle, WA",2279,219,290.6,CLT,SEA
+573,2013,2,"Charlotte, NC","Seattle, WA",2279,352,292.54,CLT,SEA
+574,2013,3,"Charlotte, NC","Seattle, WA",2279,384,318.87,CLT,SEA
+575,2013,4,"Charlotte, NC","Seattle, WA",2279,301,303.21,CLT,SEA
+576,2011,1,"Chicago, IL","Dallas/Fort Worth, TX",802,2307,248.62,ORD,DFW
+577,2011,2,"Chicago, IL","Dallas/Fort Worth, TX",802,2891,246.37,ORD,DFW
+578,2011,3,"Chicago, IL","Dallas/Fort Worth, TX",802,3146,216.03,ORD,DFW
+579,2011,4,"Chicago, IL","Dallas/Fort Worth, TX",802,3399,188.95,ORD,DFW
+580,2012,1,"Chicago, IL","Dallas/Fort Worth, TX",802,2689,217.2,ORD,DFW
+581,2012,2,"Chicago, IL","Dallas/Fort Worth, TX",802,3220,228.67,ORD,DFW
+582,2012,3,"Chicago, IL","Dallas/Fort Worth, TX",802,3427,209.72,ORD,DFW
+583,2012,4,"Chicago, IL","Dallas/Fort Worth, TX",802,3254,210.38,ORD,DFW
+584,2013,1,"Chicago, IL","Dallas/Fort Worth, TX",802,2712,210.31,ORD,DFW
+585,2013,2,"Chicago, IL","Dallas/Fort Worth, TX",802,3410,215.57,ORD,DFW
+586,2013,3,"Chicago, IL","Dallas/Fort Worth, TX",802,3188,231.96,ORD,DFW
+587,2013,4,"Chicago, IL","Dallas/Fort Worth, TX",802,3167,225.97,ORD,DFW
+588,2011,1,"Chicago, IL","Denver, CO",895,2374,175.13,ORD,DEN
+589,2011,2,"Chicago, IL","Denver, CO",895,2706,188.29,ORD,DEN
+590,2011,3,"Chicago, IL","Denver, CO",895,3057,188.85,ORD,DEN
+591,2011,4,"Chicago, IL","Denver, CO",895,2760,171.54,ORD,DEN
+592,2012,1,"Chicago, IL","Denver, CO",895,2347,170.23,ORD,DEN
+593,2012,2,"Chicago, IL","Denver, CO",895,2898,169.52,ORD,DEN
+594,2012,3,"Chicago, IL","Denver, CO",895,3383,171.12,ORD,DEN
+595,2012,4,"Chicago, IL","Denver, CO",895,2905,164.87,ORD,DEN
+596,2013,1,"Chicago, IL","Denver, CO",895,2685,168.97,ORD,DEN
+597,2013,2,"Chicago, IL","Denver, CO",895,3167,169.06,ORD,DEN
+598,2013,3,"Chicago, IL","Denver, CO",895,3303,182.73,ORD,DEN
+599,2013,4,"Chicago, IL","Denver, CO",895,2854,181.22,ORD,DEN
+600,2011,1,"Chicago, IL","Detroit, MI",235,1291,144.43,ORD,DTW
+601,2011,2,"Chicago, IL","Detroit, MI",235,1382,160.7,ORD,DTW
+602,2011,3,"Chicago, IL","Detroit, MI",235,1464,149.86,ORD,DTW
+603,2011,4,"Chicago, IL","Detroit, MI",235,1497,138.47,ORD,DTW
+604,2012,1,"Chicago, IL","Detroit, MI",235,1438,133.13,ORD,DTW
+605,2012,2,"Chicago, IL","Detroit, MI",235,1522,146.7,ORD,DTW
+606,2012,3,"Chicago, IL","Detroit, MI",235,1468,139.76,ORD,DTW
+607,2012,4,"Chicago, IL","Detroit, MI",235,1542,143.29,ORD,DTW
+608,2013,1,"Chicago, IL","Detroit, MI",235,1370,145.1,ORD,DTW
+609,2013,2,"Chicago, IL","Detroit, MI",235,1441,165.45,ORD,DTW
+610,2013,3,"Chicago, IL","Detroit, MI",235,1315,179.18,ORD,DTW
+611,2013,4,"Chicago, IL","Detroit, MI",235,1378,173.92,ORD,DTW
+612,2011,1,"Chicago, IL","Houston, TX",945,1818,228.37,ORD,IAH
+613,2011,2,"Chicago, IL","Houston, TX",945,2331,235.53,ORD,IAH
+614,2011,3,"Chicago, IL","Houston, TX",945,2338,226.19,ORD,IAH
+615,2011,4,"Chicago, IL","Houston, TX",945,2179,225.53,ORD,IAH
+616,2012,1,"Chicago, IL","Houston, TX",945,1725,263.74,ORD,IAH
+617,2012,2,"Chicago, IL","Houston, TX",945,2145,271.69,ORD,IAH
+618,2012,3,"Chicago, IL","Houston, TX",945,2207,257.68,ORD,IAH
+619,2012,4,"Chicago, IL","Houston, TX",945,2320,252.92,ORD,IAH
+620,2013,1,"Chicago, IL","Houston, TX",945,2024,247.19,ORD,IAH
+621,2013,2,"Chicago, IL","Houston, TX",945,2633,233.92,ORD,IAH
+622,2013,3,"Chicago, IL","Houston, TX",945,2414,267.98,ORD,IAH
+623,2013,4,"Chicago, IL","Houston, TX",945,2307,252.15,ORD,IAH
+624,2011,1,"Chicago, IL","Las Vegas, NV",1521,2692,229.64,ORD,LAS
+625,2011,2,"Chicago, IL","Las Vegas, NV",1521,3205,221.11,ORD,LAS
+626,2011,3,"Chicago, IL","Las Vegas, NV",1521,3338,195.15,ORD,LAS
+627,2011,4,"Chicago, IL","Las Vegas, NV",1521,3048,183.85,ORD,LAS
+628,2012,1,"Chicago, IL","Las Vegas, NV",1521,3326,183.5,ORD,LAS
+629,2012,2,"Chicago, IL","Las Vegas, NV",1521,3512,197.42,ORD,LAS
+630,2012,3,"Chicago, IL","Las Vegas, NV",1521,3301,188.04,ORD,LAS
+631,2012,4,"Chicago, IL","Las Vegas, NV",1521,2942,201.88,ORD,LAS
+632,2013,1,"Chicago, IL","Las Vegas, NV",1521,2958,215.33,ORD,LAS
+633,2013,2,"Chicago, IL","Las Vegas, NV",1521,3496,210.63,ORD,LAS
+634,2013,3,"Chicago, IL","Las Vegas, NV",1521,3085,220.2,ORD,LAS
+635,2013,4,"Chicago, IL","Las Vegas, NV",1521,2827,216.39,ORD,LAS
+636,2011,1,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1751,4175,249.02,ORD,LAX
+637,2011,2,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1751,5764,231.53,ORD,LAX
+638,2011,3,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,6272,219.45,ORD,LAX
+639,2011,4,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,5657,214.93,ORD,LAX
+640,2012,1,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,5141,197.84,ORD,LAX
+641,2012,2,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,5981,231.59,ORD,LAX
+642,2012,3,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,5946,237.66,ORD,LAX
+643,2012,4,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,5495,243.9,ORD,LAX
+644,2013,1,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,4725,233.89,ORD,LAX
+645,2013,2,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,6012,236.0,ORD,LAX
+646,2013,3,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,5927,262.71,ORD,LAX
+647,2013,4,"Chicago, IL","Los Angeles, CA (Metropolitan Area)",1750,5686,246.58,ORD,LAX
+648,2011,1,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3554,208.3,ORD,MIA
+649,2011,2,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3283,185.87,ORD,MIA
+650,2011,3,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,2755,168.97,ORD,MIA
+651,2011,4,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3370,196.23,ORD,MIA
+652,2012,1,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3708,207.49,ORD,MIA
+653,2012,2,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3338,184.63,ORD,MIA
+654,2012,3,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,2783,166.27,ORD,MIA
+655,2012,4,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3475,196.72,ORD,MIA
+656,2013,1,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3868,214.62,ORD,MIA
+657,2013,2,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3397,189.83,ORD,MIA
+658,2013,3,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,2678,195.52,ORD,MIA
+659,2013,4,"Chicago, IL","Miami, FL (Metropolitan Area)",1197,3096,233.99,ORD,MIA
+660,2011,1,"Chicago, IL","Minneapolis/St. Paul, MN",349,2392,141.12,ORD,MSP
+661,2011,2,"Chicago, IL","Minneapolis/St. Paul, MN",349,2913,150.67,ORD,MSP
+662,2011,3,"Chicago, IL","Minneapolis/St. Paul, MN",349,2984,145.33,ORD,MSP
+663,2011,4,"Chicago, IL","Minneapolis/St. Paul, MN",349,2857,161.0,ORD,MSP
+664,2012,1,"Chicago, IL","Minneapolis/St. Paul, MN",349,2440,145.97,ORD,MSP
+665,2012,2,"Chicago, IL","Minneapolis/St. Paul, MN",349,2987,149.76,ORD,MSP
+666,2012,3,"Chicago, IL","Minneapolis/St. Paul, MN",349,3012,132.4,ORD,MSP
+667,2012,4,"Chicago, IL","Minneapolis/St. Paul, MN",349,3042,128.89,ORD,MSP
+668,2013,1,"Chicago, IL","Minneapolis/St. Paul, MN",349,2521,135.73,ORD,MSP
+669,2013,2,"Chicago, IL","Minneapolis/St. Paul, MN",349,3025,146.69,ORD,MSP
+670,2013,3,"Chicago, IL","Minneapolis/St. Paul, MN",349,3108,147.0,ORD,MSP
+671,2013,4,"Chicago, IL","Minneapolis/St. Paul, MN",349,2970,138.53,ORD,MSP
+672,2011,1,"Chicago, IL","New York City, NY (Metropolitan Area)",773,6976,191.69,ORD,JFK
+673,2011,2,"Chicago, IL","New York City, NY (Metropolitan Area)",773,10422,190.63,ORD,JFK
+674,2011,3,"Chicago, IL","New York City, NY (Metropolitan Area)",773,10321,182.35,ORD,JFK
+675,2011,4,"Chicago, IL","New York City, NY (Metropolitan Area)",773,10209,170.98,ORD,JFK
+676,2012,1,"Chicago, IL","New York City, NY (Metropolitan Area)",773,8117,171.04,ORD,JFK
+677,2012,2,"Chicago, IL","New York City, NY (Metropolitan Area)",773,10572,196.45,ORD,JFK
+678,2012,3,"Chicago, IL","New York City, NY (Metropolitan Area)",773,10418,193.67,ORD,JFK
+679,2012,4,"Chicago, IL","New York City, NY (Metropolitan Area)",773,9643,199.93,ORD,JFK
+680,2013,1,"Chicago, IL","New York City, NY (Metropolitan Area)",773,8084,194.72,ORD,JFK
+681,2013,2,"Chicago, IL","New York City, NY (Metropolitan Area)",773,10562,213.78,ORD,JFK
+682,2013,3,"Chicago, IL","New York City, NY (Metropolitan Area)",773,10014,218.8,ORD,JFK
+683,2013,4,"Chicago, IL","New York City, NY (Metropolitan Area)",773,9600,220.16,ORD,JFK
+684,2011,1,"Chicago, IL","Orlando, FL",1005,3287,173.97,ORD,MCO
+685,2011,2,"Chicago, IL","Orlando, FL",1005,3413,174.66,ORD,MCO
+686,2011,3,"Chicago, IL","Orlando, FL",1005,2770,159.18,ORD,MCO
+687,2011,4,"Chicago, IL","Orlando, FL",1005,3228,170.82,ORD,MCO
+688,2012,1,"Chicago, IL","Orlando, FL",1005,3592,172.45,ORD,MCO
+689,2012,2,"Chicago, IL","Orlando, FL",1005,3939,161.66,ORD,MCO
+690,2012,3,"Chicago, IL","Orlando, FL",1005,3191,144.83,ORD,MCO
+691,2012,4,"Chicago, IL","Orlando, FL",1005,3418,168.01,ORD,MCO
+692,2013,1,"Chicago, IL","Orlando, FL",1005,3457,186.41,ORD,MCO
+693,2013,2,"Chicago, IL","Orlando, FL",1005,3549,173.96,ORD,MCO
+694,2013,3,"Chicago, IL","Orlando, FL",1005,2616,188.62,ORD,MCO
+695,2013,4,"Chicago, IL","Orlando, FL",1005,3068,193.89,ORD,MCO
+696,2011,1,"Chicago, IL","Philadelphia, PA",678,1983,193.27,ORD,PHL
+697,2011,2,"Chicago, IL","Philadelphia, PA",678,2508,217.81,ORD,PHL
+698,2011,3,"Chicago, IL","Philadelphia, PA",678,2412,216.91,ORD,PHL
+699,2011,4,"Chicago, IL","Philadelphia, PA",678,2371,203.46,ORD,PHL
+700,2012,1,"Chicago, IL","Philadelphia, PA",678,1874,214.8,ORD,PHL
+701,2012,2,"Chicago, IL","Philadelphia, PA",678,2532,226.08,ORD,PHL
+702,2012,3,"Chicago, IL","Philadelphia, PA",678,2588,198.45,ORD,PHL
+703,2012,4,"Chicago, IL","Philadelphia, PA",678,2530,199.71,ORD,PHL
+704,2013,1,"Chicago, IL","Philadelphia, PA",678,1962,209.61,ORD,PHL
+705,2013,2,"Chicago, IL","Philadelphia, PA",678,2693,216.66,ORD,PHL
+706,2013,3,"Chicago, IL","Philadelphia, PA",678,2367,236.86,ORD,PHL
+707,2013,4,"Chicago, IL","Philadelphia, PA",678,2217,227.53,ORD,PHL
+708,2011,1,"Chicago, IL","Phoenix, AZ",1444,2642,232.17,ORD,PHX
+709,2011,2,"Chicago, IL","Phoenix, AZ",1444,2489,223.69,ORD,PHX
+710,2011,3,"Chicago, IL","Phoenix, AZ",1444,2216,205.75,ORD,PHX
+711,2011,4,"Chicago, IL","Phoenix, AZ",1444,2562,212.43,ORD,PHX
+712,2012,1,"Chicago, IL","Phoenix, AZ",1444,2536,234.43,ORD,PHX
+713,2012,2,"Chicago, IL","Phoenix, AZ",1444,2334,233.79,ORD,PHX
+714,2012,3,"Chicago, IL","Phoenix, AZ",1444,1989,223.87,ORD,PHX
+715,2012,4,"Chicago, IL","Phoenix, AZ",1444,2568,217.01,ORD,PHX
+716,2013,1,"Chicago, IL","Phoenix, AZ",1444,2861,220.79,ORD,PHX
+717,2013,2,"Chicago, IL","Phoenix, AZ",1444,2537,229.01,ORD,PHX
+718,2013,3,"Chicago, IL","Phoenix, AZ",1444,2013,242.17,ORD,PHX
+719,2013,4,"Chicago, IL","Phoenix, AZ",1444,2942,201.91,ORD,PHX
+720,2011,1,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,2580,281.41,ORD,SFO
+721,2011,2,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,4016,269.83,ORD,SFO
+722,2011,3,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,4548,250.61,ORD,SFO
+723,2011,4,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,4068,228.1,ORD,SFO
+724,2012,1,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,3391,216.75,ORD,SFO
+725,2012,2,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,4179,268.99,ORD,SFO
+726,2012,3,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,4347,275.59,ORD,SFO
+727,2012,4,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,3893,279.56,ORD,SFO
+728,2013,1,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,3150,266.38,ORD,SFO
+729,2013,2,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,4490,275.63,ORD,SFO
+730,2013,3,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,4618,286.0,ORD,SFO
+731,2013,4,"Chicago, IL","San Francisco, CA (Metropolitan Area)",1855,4240,266.53,ORD,SFO
+732,2011,1,"Chicago, IL","Seattle, WA",1733,1052,244.78,ORD,SEA
+733,2011,2,"Chicago, IL","Seattle, WA",1733,1665,262.19,ORD,SEA
+734,2011,3,"Chicago, IL","Seattle, WA",1733,1941,260.53,ORD,SEA
+735,2011,4,"Chicago, IL","Seattle, WA",1733,1515,220.99,ORD,SEA
+736,2012,1,"Chicago, IL","Seattle, WA",1733,1151,226.06,ORD,SEA
+737,2012,2,"Chicago, IL","Seattle, WA",1733,1695,257.2,ORD,SEA
+738,2012,3,"Chicago, IL","Seattle, WA",1733,1907,266.94,ORD,SEA
+739,2012,4,"Chicago, IL","Seattle, WA",1733,1547,253.85,ORD,SEA
+740,2013,1,"Chicago, IL","Seattle, WA",1733,1155,243.23,ORD,SEA
+741,2013,2,"Chicago, IL","Seattle, WA",1733,1832,258.37,ORD,SEA
+742,2013,3,"Chicago, IL","Seattle, WA",1733,2111,269.48,ORD,SEA
+743,2013,4,"Chicago, IL","Seattle, WA",1733,1590,248.48,ORD,SEA
+744,2011,1,"Dallas/Fort Worth, TX","Denver, CO",651,1741,199.88,DFW,DEN
+745,2011,2,"Dallas/Fort Worth, TX","Denver, CO",651,1897,180.26,DFW,DEN
+746,2011,3,"Dallas/Fort Worth, TX","Denver, CO",651,2165,172.85,DFW,DEN
+747,2011,4,"Dallas/Fort Worth, TX","Denver, CO",651,1918,196.18,DFW,DEN
+748,2012,1,"Dallas/Fort Worth, TX","Denver, CO",651,1825,194.46,DFW,DEN
+749,2012,2,"Dallas/Fort Worth, TX","Denver, CO",651,1998,176.42,DFW,DEN
+750,2012,3,"Dallas/Fort Worth, TX","Denver, CO",651,2212,154.44,DFW,DEN
+751,2012,4,"Dallas/Fort Worth, TX","Denver, CO",651,2129,149.81,DFW,DEN
+752,2013,1,"Dallas/Fort Worth, TX","Denver, CO",651,2288,152.27,DFW,DEN
+753,2013,2,"Dallas/Fort Worth, TX","Denver, CO",651,2249,150.49,DFW,DEN
+754,2013,3,"Dallas/Fort Worth, TX","Denver, CO",651,2389,165.07,DFW,DEN
+755,2013,4,"Dallas/Fort Worth, TX","Denver, CO",651,2287,161.15,DFW,DEN
+756,2011,1,"Dallas/Fort Worth, TX","Detroit, MI",987,723,246.1,DFW,DTW
+757,2011,2,"Dallas/Fort Worth, TX","Detroit, MI",987,851,253.69,DFW,DTW
+758,2011,3,"Dallas/Fort Worth, TX","Detroit, MI",986,835,255.07,DFW,DTW
+759,2011,4,"Dallas/Fort Worth, TX","Detroit, MI",986,856,258.64,DFW,DTW
+760,2012,1,"Dallas/Fort Worth, TX","Detroit, MI",986,721,283.41,DFW,DTW
+761,2012,2,"Dallas/Fort Worth, TX","Detroit, MI",986,812,295.52,DFW,DTW
+762,2012,3,"Dallas/Fort Worth, TX","Detroit, MI",986,1016,251.51,DFW,DTW
+763,2012,4,"Dallas/Fort Worth, TX","Detroit, MI",986,990,232.5,DFW,DTW
+764,2013,1,"Dallas/Fort Worth, TX","Detroit, MI",986,950,213.22,DFW,DTW
+765,2013,2,"Dallas/Fort Worth, TX","Detroit, MI",986,1098,235.57,DFW,DTW
+766,2013,3,"Dallas/Fort Worth, TX","Detroit, MI",986,1144,234.94,DFW,DTW
+767,2013,4,"Dallas/Fort Worth, TX","Detroit, MI",986,1073,231.64,DFW,DTW
+768,2011,1,"Dallas/Fort Worth, TX","Houston, TX",247,3229,148.67,DFW,IAH
+769,2011,2,"Dallas/Fort Worth, TX","Houston, TX",247,3324,158.05,DFW,IAH
+770,2011,3,"Dallas/Fort Worth, TX","Houston, TX",247,3150,156.04,DFW,IAH
+771,2011,4,"Dallas/Fort Worth, TX","Houston, TX",247,3157,164.9,DFW,IAH
+772,2012,1,"Dallas/Fort Worth, TX","Houston, TX",247,3333,153.27,DFW,IAH
+773,2012,2,"Dallas/Fort Worth, TX","Houston, TX",247,3450,152.49,DFW,IAH
+774,2012,3,"Dallas/Fort Worth, TX","Houston, TX",247,3051,155.98,DFW,IAH
+775,2012,4,"Dallas/Fort Worth, TX","Houston, TX",247,3109,154.68,DFW,IAH
+776,2013,1,"Dallas/Fort Worth, TX","Houston, TX",247,3147,157.66,DFW,IAH
+777,2013,2,"Dallas/Fort Worth, TX","Houston, TX",247,3180,161.9,DFW,IAH
+778,2013,3,"Dallas/Fort Worth, TX","Houston, TX",247,2890,169.57,DFW,IAH
+779,2013,4,"Dallas/Fort Worth, TX","Houston, TX",247,3101,155.94,DFW,IAH
+780,2011,1,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,1770,226.26,DFW,LAS
+781,2011,2,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2226,194.08,DFW,LAS
+782,2011,3,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2516,163.56,DFW,LAS
+783,2011,4,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2273,180.95,DFW,LAS
+784,2012,1,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2190,188.48,DFW,LAS
+785,2012,2,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2132,199.76,DFW,LAS
+786,2012,3,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2071,182.86,DFW,LAS
+787,2012,4,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2140,180.52,DFW,LAS
+788,2013,1,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2099,193.15,DFW,LAS
+789,2013,2,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2284,188.0,DFW,LAS
+790,2013,3,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2141,186.29,DFW,LAS
+791,2013,4,"Dallas/Fort Worth, TX","Las Vegas, NV",1067,2042,195.63,DFW,LAS
+792,2011,1,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,3664,228.08,DFW,LAX
+793,2011,2,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,4678,196.51,DFW,LAX
+794,2011,3,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,4408,207.79,DFW,LAX
+795,2011,4,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,4503,206.72,DFW,LAX
+796,2012,1,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,3887,205.52,DFW,LAX
+797,2012,2,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,4243,239.14,DFW,LAX
+798,2012,3,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,4198,225.24,DFW,LAX
+799,2012,4,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,3963,230.1,DFW,LAX
+800,2013,1,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,3590,241.83,DFW,LAX
+801,2013,2,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,4181,234.26,DFW,LAX
+802,2013,3,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,4168,229.77,DFW,LAX
+803,2013,4,"Dallas/Fort Worth, TX","Los Angeles, CA (Metropolitan Area)",1246,4319,227.02,DFW,LAX
+804,2011,1,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1324,240.29,DFW,MIA
+805,2011,2,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1609,207.45,DFW,MIA
+806,2011,3,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1571,175.48,DFW,MIA
+807,2011,4,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1641,189.21,DFW,MIA
+808,2012,1,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1559,217.93,DFW,MIA
+809,2012,2,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1587,228.41,DFW,MIA
+810,2012,3,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1481,191.67,DFW,MIA
+811,2012,4,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1486,207.51,DFW,MIA
+812,2013,1,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1524,226.65,DFW,MIA
+813,2013,2,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1644,211.4,DFW,MIA
+814,2013,3,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1518,206.78,DFW,MIA
+815,2013,4,"Dallas/Fort Worth, TX","Miami, FL (Metropolitan Area)",1121,1534,215.59,DFW,MIA
+816,2011,1,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,905,206.85,DFW,MSP
+817,2011,2,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,1175,204.56,DFW,MSP
+818,2011,3,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,1111,211.85,DFW,MSP
+819,2011,4,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,921,252.21,DFW,MSP
+820,2012,1,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,816,282.85,DFW,MSP
+821,2012,2,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,1033,262.92,DFW,MSP
+822,2012,3,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,1042,241.48,DFW,MSP
+823,2012,4,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,990,223.08,DFW,MSP
+824,2013,1,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,934,221.94,DFW,MSP
+825,2013,2,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,1276,202.14,DFW,MSP
+826,2013,3,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,1238,215.61,DFW,MSP
+827,2013,4,"Dallas/Fort Worth, TX","Minneapolis/St. Paul, MN",853,1137,221.55,DFW,MSP
+828,2011,1,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3080,357.9,DFW,JFK
+829,2011,2,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3747,348.01,DFW,JFK
+830,2011,3,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3496,334.15,DFW,JFK
+831,2011,4,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3484,362.68,DFW,JFK
+832,2012,1,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,2857,401.68,DFW,JFK
+833,2012,2,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3731,358.19,DFW,JFK
+834,2012,3,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3498,335.85,DFW,JFK
+835,2012,4,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3751,309.85,DFW,JFK
+836,2013,1,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3395,315.71,DFW,JFK
+837,2013,2,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3939,319.99,DFW,JFK
+838,2013,3,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,3593,326.37,DFW,JFK
+839,2013,4,"Dallas/Fort Worth, TX","New York City, NY (Metropolitan Area)",1428,4122,290.91,DFW,JFK
+840,2011,1,"Dallas/Fort Worth, TX","Orlando, FL",984,1702,191.24,DFW,MCO
+841,2011,2,"Dallas/Fort Worth, TX","Orlando, FL",984,1858,196.58,DFW,MCO
+842,2011,3,"Dallas/Fort Worth, TX","Orlando, FL",985,1718,171.14,DFW,MCO
+843,2011,4,"Dallas/Fort Worth, TX","Orlando, FL",985,1536,201.71,DFW,MCO
+844,2012,1,"Dallas/Fort Worth, TX","Orlando, FL",985,1455,228.78,DFW,MCO
+845,2012,2,"Dallas/Fort Worth, TX","Orlando, FL",985,1631,214.86,DFW,MCO
+846,2012,3,"Dallas/Fort Worth, TX","Orlando, FL",985,1382,201.51,DFW,MCO
+847,2012,4,"Dallas/Fort Worth, TX","Orlando, FL",985,1452,213.51,DFW,MCO
+848,2013,1,"Dallas/Fort Worth, TX","Orlando, FL",985,1552,215.98,DFW,MCO
+849,2013,2,"Dallas/Fort Worth, TX","Orlando, FL",985,1856,192.2,DFW,MCO
+850,2013,3,"Dallas/Fort Worth, TX","Orlando, FL",985,1610,186.92,DFW,MCO
+851,2013,4,"Dallas/Fort Worth, TX","Orlando, FL",985,1558,202.48,DFW,MCO
+852,2011,1,"Dallas/Fort Worth, TX","Philadelphia, PA",1302,1080,257.36,DFW,PHL
+853,2011,2,"Dallas/Fort Worth, TX","Philadelphia, PA",1302,1249,253.57,DFW,PHL
+854,2011,3,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1154,252.41,DFW,PHL
+855,2011,4,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1163,268.04,DFW,PHL
+856,2012,1,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1014,280.74,DFW,PHL
+857,2012,2,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1194,283.28,DFW,PHL
+858,2012,3,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1183,256.41,DFW,PHL
+859,2012,4,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1264,237.84,DFW,PHL
+860,2013,1,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1078,268.18,DFW,PHL
+861,2013,2,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1493,237.01,DFW,PHL
+862,2013,3,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1524,212.15,DFW,PHL
+863,2013,4,"Dallas/Fort Worth, TX","Philadelphia, PA",1303,1502,214.96,DFW,PHL
+864,2011,1,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1476,224.61,DFW,PHX
+865,2011,2,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1373,218.12,DFW,PHX
+866,2011,3,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1163,214.81,DFW,PHX
+867,2011,4,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1390,221.09,DFW,PHX
+868,2012,1,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1482,220.53,DFW,PHX
+869,2012,2,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1435,205.66,DFW,PHX
+870,2012,3,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1184,208.24,DFW,PHX
+871,2012,4,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1451,213.99,DFW,PHX
+872,2013,1,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1451,216.42,DFW,PHX
+873,2013,2,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1428,232.06,DFW,PHX
+874,2013,3,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1209,231.15,DFW,PHX
+875,2013,4,"Dallas/Fort Worth, TX","Phoenix, AZ",879,1712,211.75,DFW,PHX
+876,2011,1,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,1994,233.86,DFW,SFO
+877,2011,2,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2696,207.5,DFW,SFO
+878,2011,3,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2751,210.75,DFW,SFO
+879,2011,4,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2701,205.5,DFW,SFO
+880,2012,1,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2307,207.28,DFW,SFO
+881,2012,2,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2598,247.83,DFW,SFO
+882,2012,3,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2574,236.22,DFW,SFO
+883,2012,4,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2408,243.84,DFW,SFO
+884,2013,1,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2092,246.49,DFW,SFO
+885,2013,2,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2642,246.71,DFW,SFO
+886,2013,3,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2698,241.05,DFW,SFO
+887,2013,4,"Dallas/Fort Worth, TX","San Francisco, CA (Metropolitan Area)",1476,2538,240.12,DFW,SFO
+888,2011,1,"Dallas/Fort Worth, TX","Seattle, WA",1670,886,249.49,DFW,SEA
+889,2011,2,"Dallas/Fort Worth, TX","Seattle, WA",1670,1293,236.32,DFW,SEA
+890,2011,3,"Dallas/Fort Worth, TX","Seattle, WA",1670,1392,249.4,DFW,SEA
+891,2011,4,"Dallas/Fort Worth, TX","Seattle, WA",1670,1097,240.73,DFW,SEA
+892,2012,1,"Dallas/Fort Worth, TX","Seattle, WA",1670,916,250.03,DFW,SEA
+893,2012,2,"Dallas/Fort Worth, TX","Seattle, WA",1670,1221,260.99,DFW,SEA
+894,2012,3,"Dallas/Fort Worth, TX","Seattle, WA",1670,1359,260.93,DFW,SEA
+895,2012,4,"Dallas/Fort Worth, TX","Seattle, WA",1670,1082,249.84,DFW,SEA
+896,2013,1,"Dallas/Fort Worth, TX","Seattle, WA",1670,1028,242.32,DFW,SEA
+897,2013,2,"Dallas/Fort Worth, TX","Seattle, WA",1670,1310,249.3,DFW,SEA
+898,2013,3,"Dallas/Fort Worth, TX","Seattle, WA",1670,1503,253.94,DFW,SEA
+899,2013,4,"Dallas/Fort Worth, TX","Seattle, WA",1670,1165,239.8,DFW,SEA
+900,2011,1,"Denver, CO","Detroit, MI",1123,803,169.52,DEN,DTW
+901,2011,2,"Denver, CO","Detroit, MI",1123,960,178.86,DEN,DTW
+902,2011,3,"Denver, CO","Detroit, MI",1123,1123,183.15,DEN,DTW
+903,2011,4,"Denver, CO","Detroit, MI",1123,943,197.55,DEN,DTW
+904,2012,1,"Denver, CO","Detroit, MI",1123,747,187.7,DEN,DTW
+905,2012,2,"Denver, CO","Detroit, MI",1123,889,194.53,DEN,DTW
+906,2012,3,"Denver, CO","Detroit, MI",1123,1027,193.85,DEN,DTW
+907,2012,4,"Denver, CO","Detroit, MI",1123,932,197.82,DEN,DTW
+908,2013,1,"Denver, CO","Detroit, MI",1123,844,177.65,DEN,DTW
+909,2013,2,"Denver, CO","Detroit, MI",1123,1007,177.14,DEN,DTW
+910,2013,3,"Denver, CO","Detroit, MI",1123,1169,185.32,DEN,DTW
+911,2013,4,"Denver, CO","Detroit, MI",1123,999,181.33,DEN,DTW
+912,2011,1,"Denver, CO","Houston, TX",883,1867,177.67,DEN,IAH
+913,2011,2,"Denver, CO","Houston, TX",883,1855,176.04,DEN,IAH
+914,2011,3,"Denver, CO","Houston, TX",883,2077,177.18,DEN,IAH
+915,2011,4,"Denver, CO","Houston, TX",883,1985,181.6,DEN,IAH
+916,2012,1,"Denver, CO","Houston, TX",883,1817,194.13,DEN,IAH
+917,2012,2,"Denver, CO","Houston, TX",883,1849,204.26,DEN,IAH
+918,2012,3,"Denver, CO","Houston, TX",883,1951,215.06,DEN,IAH
+919,2012,4,"Denver, CO","Houston, TX",883,1859,214.82,DEN,IAH
+920,2013,1,"Denver, CO","Houston, TX",883,1991,216.53,DEN,IAH
+921,2013,2,"Denver, CO","Houston, TX",883,2015,201.02,DEN,IAH
+922,2013,3,"Denver, CO","Houston, TX",883,2131,208.54,DEN,IAH
+923,2013,4,"Denver, CO","Houston, TX",883,2136,201.51,DEN,IAH
+924,2011,1,"Denver, CO","Las Vegas, NV",629,2430,129.41,DEN,LAS
+925,2011,2,"Denver, CO","Las Vegas, NV",629,2518,131.94,DEN,LAS
+926,2011,3,"Denver, CO","Las Vegas, NV",628,2458,121.42,DEN,LAS
+927,2011,4,"Denver, CO","Las Vegas, NV",628,2362,130.42,DEN,LAS
+928,2012,1,"Denver, CO","Las Vegas, NV",628,2364,137.04,DEN,LAS
+929,2012,2,"Denver, CO","Las Vegas, NV",628,2402,134.37,DEN,LAS
+930,2012,3,"Denver, CO","Las Vegas, NV",628,2286,123.86,DEN,LAS
+931,2012,4,"Denver, CO","Las Vegas, NV",628,2378,125.45,DEN,LAS
+932,2013,1,"Denver, CO","Las Vegas, NV",628,2587,128.67,DEN,LAS
+933,2013,2,"Denver, CO","Las Vegas, NV",628,2676,129.33,DEN,LAS
+934,2013,3,"Denver, CO","Las Vegas, NV",628,2312,130.51,DEN,LAS
+935,2013,4,"Denver, CO","Las Vegas, NV",628,2371,135.0,DEN,LAS
+936,2011,1,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4162,145.4,DEN,LAX
+937,2011,2,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4793,145.96,DEN,LAX
+938,2011,3,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4774,158.71,DEN,LAX
+939,2011,4,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4646,161.52,DEN,LAX
+940,2012,1,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4055,154.21,DEN,LAX
+941,2012,2,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4611,163.93,DEN,LAX
+942,2012,3,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4718,165.58,DEN,LAX
+943,2012,4,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4379,172.05,DEN,LAX
+944,2013,1,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4034,169.86,DEN,LAX
+945,2013,2,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4716,171.68,DEN,LAX
+946,2013,3,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4784,173.75,DEN,LAX
+947,2013,4,"Denver, CO","Los Angeles, CA (Metropolitan Area)",862,4671,163.57,DEN,LAX
+948,2011,1,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1350,214.14,DEN,MIA
+949,2011,2,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1113,205.35,DEN,MIA
+950,2011,3,"Denver, CO","Miami, FL (Metropolitan Area)",1709,909,208.62,DEN,MIA
+951,2011,4,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1130,222.61,DEN,MIA
+952,2012,1,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1332,220.38,DEN,MIA
+953,2012,2,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1148,204.76,DEN,MIA
+954,2012,3,"Denver, CO","Miami, FL (Metropolitan Area)",1709,972,189.46,DEN,MIA
+955,2012,4,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1279,203.88,DEN,MIA
+956,2013,1,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1480,216.61,DEN,MIA
+957,2013,2,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1246,193.81,DEN,MIA
+958,2013,3,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1066,191.49,DEN,MIA
+959,2013,4,"Denver, CO","Miami, FL (Metropolitan Area)",1709,1285,217.0,DEN,MIA
+960,2011,1,"Denver, CO","Minneapolis/St. Paul, MN",680,1468,143.13,DEN,MSP
+961,2011,2,"Denver, CO","Minneapolis/St. Paul, MN",680,1802,137.14,DEN,MSP
+962,2011,3,"Denver, CO","Minneapolis/St. Paul, MN",680,2114,138.75,DEN,MSP
+963,2011,4,"Denver, CO","Minneapolis/St. Paul, MN",680,1778,148.73,DEN,MSP
+964,2012,1,"Denver, CO","Minneapolis/St. Paul, MN",680,1467,141.84,DEN,MSP
+965,2012,2,"Denver, CO","Minneapolis/St. Paul, MN",680,1825,143.49,DEN,MSP
+966,2012,3,"Denver, CO","Minneapolis/St. Paul, MN",680,2105,143.71,DEN,MSP
+967,2012,4,"Denver, CO","Minneapolis/St. Paul, MN",680,1756,139.6,DEN,MSP
+968,2013,1,"Denver, CO","Minneapolis/St. Paul, MN",680,1673,139.18,DEN,MSP
+969,2013,2,"Denver, CO","Minneapolis/St. Paul, MN",680,1975,139.38,DEN,MSP
+970,2013,3,"Denver, CO","Minneapolis/St. Paul, MN",680,2155,148.35,DEN,MSP
+971,2013,4,"Denver, CO","Minneapolis/St. Paul, MN",680,1870,139.62,DEN,MSP
+972,2011,1,"Denver, CO","New York City, NY (Metropolitan Area)",1659,2365,254.36,DEN,JFK
+973,2011,2,"Denver, CO","New York City, NY (Metropolitan Area)",1659,2862,251.92,DEN,JFK
+974,2011,3,"Denver, CO","New York City, NY (Metropolitan Area)",1659,3267,256.25,DEN,JFK
+975,2011,4,"Denver, CO","New York City, NY (Metropolitan Area)",1659,2851,234.97,DEN,JFK
+976,2012,1,"Denver, CO","New York City, NY (Metropolitan Area)",1659,2514,219.56,DEN,JFK
+977,2012,2,"Denver, CO","New York City, NY (Metropolitan Area)",1659,3138,220.29,DEN,JFK
+978,2012,3,"Denver, CO","New York City, NY (Metropolitan Area)",1659,3690,210.77,DEN,JFK
+979,2012,4,"Denver, CO","New York City, NY (Metropolitan Area)",1659,3143,213.06,DEN,JFK
+980,2013,1,"Denver, CO","New York City, NY (Metropolitan Area)",1659,3059,211.38,DEN,JFK
+981,2013,2,"Denver, CO","New York City, NY (Metropolitan Area)",1659,3410,213.05,DEN,JFK
+982,2013,3,"Denver, CO","New York City, NY (Metropolitan Area)",1659,3666,243.14,DEN,JFK
+983,2013,4,"Denver, CO","New York City, NY (Metropolitan Area)",1659,3283,224.7,DEN,JFK
+984,2011,1,"Denver, CO","Orlando, FL",1546,1347,204.81,DEN,MCO
+985,2011,2,"Denver, CO","Orlando, FL",1546,1270,207.39,DEN,MCO
+986,2011,3,"Denver, CO","Orlando, FL",1546,1020,205.83,DEN,MCO
+987,2011,4,"Denver, CO","Orlando, FL",1546,1202,214.75,DEN,MCO
+988,2012,1,"Denver, CO","Orlando, FL",1546,1285,221.22,DEN,MCO
+989,2012,2,"Denver, CO","Orlando, FL",1546,1226,222.07,DEN,MCO
+990,2012,3,"Denver, CO","Orlando, FL",1546,1063,196.35,DEN,MCO
+991,2012,4,"Denver, CO","Orlando, FL",1546,1384,201.23,DEN,MCO
+992,2013,1,"Denver, CO","Orlando, FL",1546,1446,215.72,DEN,MCO
+993,2013,2,"Denver, CO","Orlando, FL",1546,1337,215.17,DEN,MCO
+994,2013,3,"Denver, CO","Orlando, FL",1546,1125,209.2,DEN,MCO
+995,2013,4,"Denver, CO","Orlando, FL",1546,1365,220.32,DEN,MCO
+996,2011,1,"Denver, CO","Philadelphia, PA",1557,850,228.99,DEN,PHL
+997,2011,2,"Denver, CO","Philadelphia, PA",1557,1059,236.08,DEN,PHL
+998,2011,3,"Denver, CO","Philadelphia, PA",1558,1213,238.07,DEN,PHL
+999,2011,4,"Denver, CO","Philadelphia, PA",1558,1048,215.43,DEN,PHL
+1000,2012,1,"Denver, CO","Philadelphia, PA",1558,864,218.11,DEN,PHL
+1001,2012,2,"Denver, CO","Philadelphia, PA",1558,1036,234.04,DEN,PHL
+1002,2012,3,"Denver, CO","Philadelphia, PA",1558,1236,221.06,DEN,PHL
+1003,2012,4,"Denver, CO","Philadelphia, PA",1558,1078,209.31,DEN,PHL
+1004,2013,1,"Denver, CO","Philadelphia, PA",1558,919,227.4,DEN,PHL
+1005,2013,2,"Denver, CO","Philadelphia, PA",1558,1059,243.66,DEN,PHL
+1006,2013,3,"Denver, CO","Philadelphia, PA",1558,1096,259.03,DEN,PHL
+1007,2013,4,"Denver, CO","Philadelphia, PA",1558,898,255.2,DEN,PHL
+1008,2011,1,"Denver, CO","Phoenix, AZ",602,3042,133.06,DEN,PHX
+1009,2011,2,"Denver, CO","Phoenix, AZ",602,2653,125.78,DEN,PHX
+1010,2011,3,"Denver, CO","Phoenix, AZ",602,2415,118.34,DEN,PHX
+1011,2011,4,"Denver, CO","Phoenix, AZ",602,2833,132.55,DEN,PHX
+1012,2012,1,"Denver, CO","Phoenix, AZ",602,3002,137.49,DEN,PHX
+1013,2012,2,"Denver, CO","Phoenix, AZ",602,2442,145.74,DEN,PHX
+1014,2012,3,"Denver, CO","Phoenix, AZ",602,2024,143.37,DEN,PHX
+1015,2012,4,"Denver, CO","Phoenix, AZ",602,2520,138.73,DEN,PHX
+1016,2013,1,"Denver, CO","Phoenix, AZ",602,3186,122.36,DEN,PHX
+1017,2013,2,"Denver, CO","Phoenix, AZ",602,2838,132.39,DEN,PHX
+1018,2013,3,"Denver, CO","Phoenix, AZ",602,2443,134.06,DEN,PHX
+1019,2013,4,"Denver, CO","Phoenix, AZ",602,3025,125.55,DEN,PHX
+1020,2011,1,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,2701,177.04,DEN,SFO
+1021,2011,2,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3228,183.89,DEN,SFO
+1022,2011,3,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3422,186.0,DEN,SFO
+1023,2011,4,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3172,180.97,DEN,SFO
+1024,2012,1,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,2681,182.97,DEN,SFO
+1025,2012,2,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3177,198.13,DEN,SFO
+1026,2012,3,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3460,194.61,DEN,SFO
+1027,2012,4,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3238,198.27,DEN,SFO
+1028,2013,1,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,2894,195.27,DEN,SFO
+1029,2013,2,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3406,207.15,DEN,SFO
+1030,2013,3,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3653,204.17,DEN,SFO
+1031,2013,4,"Denver, CO","San Francisco, CA (Metropolitan Area)",967,3415,193.48,DEN,SFO
+1032,2011,1,"Denver, CO","Seattle, WA",1024,1354,156.89,DEN,SEA
+1033,2011,2,"Denver, CO","Seattle, WA",1024,1710,167.77,DEN,SEA
+1034,2011,3,"Denver, CO","Seattle, WA",1024,2191,179.31,DEN,SEA
+1035,2011,4,"Denver, CO","Seattle, WA",1024,1609,165.17,DEN,SEA
+1036,2012,1,"Denver, CO","Seattle, WA",1024,1304,160.34,DEN,SEA
+1037,2012,2,"Denver, CO","Seattle, WA",1024,1659,181.86,DEN,SEA
+1038,2012,3,"Denver, CO","Seattle, WA",1024,1981,177.26,DEN,SEA
+1039,2012,4,"Denver, CO","Seattle, WA",1024,1659,167.35,DEN,SEA
+1040,2013,1,"Denver, CO","Seattle, WA",1024,1408,165.36,DEN,SEA
+1041,2013,2,"Denver, CO","Seattle, WA",1024,1784,182.3,DEN,SEA
+1042,2013,3,"Denver, CO","Seattle, WA",1024,2133,186.05,DEN,SEA
+1043,2013,4,"Denver, CO","Seattle, WA",1024,1698,163.33,DEN,SEA
+1044,2011,1,"Detroit, MI","Houston, TX",1093,532,269.21,DTW,IAH
+1045,2011,2,"Detroit, MI","Houston, TX",1093,665,261.55,DTW,IAH
+1046,2011,3,"Detroit, MI","Houston, TX",1092,605,274.46,DTW,IAH
+1047,2011,4,"Detroit, MI","Houston, TX",1092,565,294.43,DTW,IAH
+1048,2012,1,"Detroit, MI","Houston, TX",1092,470,313.29,DTW,IAH
+1049,2012,2,"Detroit, MI","Houston, TX",1092,591,296.11,DTW,IAH
+1050,2012,3,"Detroit, MI","Houston, TX",1092,573,305.53,DTW,IAH
+1051,2012,4,"Detroit, MI","Houston, TX",1092,582,307.09,DTW,IAH
+1052,2013,1,"Detroit, MI","Houston, TX",1092,502,318.25,DTW,IAH
+1053,2013,2,"Detroit, MI","Houston, TX",1092,574,307.92,DTW,IAH
+1054,2013,3,"Detroit, MI","Houston, TX",1092,672,279.07,DTW,IAH
+1055,2013,4,"Detroit, MI","Houston, TX",1092,743,235.02,DTW,IAH
+1056,2011,1,"Detroit, MI","Las Vegas, NV",1750,1654,189.69,DTW,LAS
+1057,2011,2,"Detroit, MI","Las Vegas, NV",1750,2001,199.0,DTW,LAS
+1058,2011,3,"Detroit, MI","Las Vegas, NV",1749,1929,184.92,DTW,LAS
+1059,2011,4,"Detroit, MI","Las Vegas, NV",1749,1817,190.29,DTW,LAS
+1060,2012,1,"Detroit, MI","Las Vegas, NV",1749,1745,191.52,DTW,LAS
+1061,2012,2,"Detroit, MI","Las Vegas, NV",1749,1886,212.66,DTW,LAS
+1062,2012,3,"Detroit, MI","Las Vegas, NV",1749,1821,192.45,DTW,LAS
+1063,2012,4,"Detroit, MI","Las Vegas, NV",1749,1849,188.04,DTW,LAS
+1064,2013,1,"Detroit, MI","Las Vegas, NV",1749,1808,191.81,DTW,LAS
+1065,2013,2,"Detroit, MI","Las Vegas, NV",1749,2034,198.26,DTW,LAS
+1066,2013,3,"Detroit, MI","Las Vegas, NV",1749,1803,195.24,DTW,LAS
+1067,2013,4,"Detroit, MI","Las Vegas, NV",1749,1828,189.01,DTW,LAS
+1068,2011,1,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1519,239.68,DTW,LAX
+1069,2011,2,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1851,241.89,DTW,LAX
+1070,2011,3,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1976,246.19,DTW,LAX
+1071,2011,4,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1635,275.24,DTW,LAX
+1072,2012,1,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1268,290.31,DTW,LAX
+1073,2012,2,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1657,281.04,DTW,LAX
+1074,2012,3,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1819,261.58,DTW,LAX
+1075,2012,4,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1701,281.98,DTW,LAX
+1076,2013,1,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1443,287.85,DTW,LAX
+1077,2013,2,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1790,279.56,DTW,LAX
+1078,2013,3,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1822,289.38,DTW,LAX
+1079,2013,4,"Detroit, MI","Los Angeles, CA (Metropolitan Area)",1979,1712,323.19,DTW,LAX
+1080,2011,1,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,2174,161.04,DTW,MIA
+1081,2011,2,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1871,150.31,DTW,MIA
+1082,2011,3,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1441,128.16,DTW,MIA
+1083,2011,4,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1926,157.6,DTW,MIA
+1084,2012,1,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,2400,178.29,DTW,MIA
+1085,2012,2,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1793,166.64,DTW,MIA
+1086,2012,3,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1266,142.63,DTW,MIA
+1087,2012,4,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1908,170.29,DTW,MIA
+1088,2013,1,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,2420,192.24,DTW,MIA
+1089,2013,2,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1787,156.86,DTW,MIA
+1090,2013,3,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1464,144.87,DTW,MIA
+1091,2013,4,"Detroit, MI","Miami, FL (Metropolitan Area)",1145,1915,181.34,DTW,MIA
+1092,2011,1,"Detroit, MI","Minneapolis/St. Paul, MN",528,445,309.43,DTW,MSP
+1093,2011,2,"Detroit, MI","Minneapolis/St. Paul, MN",528,529,323.64,DTW,MSP
+1094,2011,3,"Detroit, MI","Minneapolis/St. Paul, MN",528,547,309.85,DTW,MSP
+1095,2011,4,"Detroit, MI","Minneapolis/St. Paul, MN",528,562,278.17,DTW,MSP
+1096,2012,1,"Detroit, MI","Minneapolis/St. Paul, MN",528,467,296.09,DTW,MSP
+1097,2012,2,"Detroit, MI","Minneapolis/St. Paul, MN",528,557,302.21,DTW,MSP
+1098,2012,3,"Detroit, MI","Minneapolis/St. Paul, MN",528,527,309.24,DTW,MSP
+1099,2012,4,"Detroit, MI","Minneapolis/St. Paul, MN",528,476,316.16,DTW,MSP
+1100,2013,1,"Detroit, MI","Minneapolis/St. Paul, MN",528,397,334.11,DTW,MSP
+1101,2013,2,"Detroit, MI","Minneapolis/St. Paul, MN",528,491,326.68,DTW,MSP
+1102,2013,3,"Detroit, MI","Minneapolis/St. Paul, MN",528,496,335.93,DTW,MSP
+1103,2013,4,"Detroit, MI","Minneapolis/St. Paul, MN",528,508,324.88,DTW,MSP
+1104,2011,1,"Detroit, MI","New York City, NY (Metropolitan Area)",540,1817,232.63,DTW,JFK
+1105,2011,2,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2584,222.99,DTW,JFK
+1106,2011,3,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2764,200.93,DTW,JFK
+1107,2011,4,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2738,205.36,DTW,JFK
+1108,2012,1,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2038,223.05,DTW,JFK
+1109,2012,2,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2653,225.09,DTW,JFK
+1110,2012,3,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2706,212.4,DTW,JFK
+1111,2012,4,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2669,224.18,DTW,JFK
+1112,2013,1,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2027,237.4,DTW,JFK
+1113,2013,2,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2608,240.82,DTW,JFK
+1114,2013,3,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2632,238.32,DTW,JFK
+1115,2013,4,"Detroit, MI","New York City, NY (Metropolitan Area)",540,2752,244.65,DTW,JFK
+1116,2011,1,"Detroit, MI","Orlando, FL",957,2426,136.38,DTW,MCO
+1117,2011,2,"Detroit, MI","Orlando, FL",957,2367,150.64,DTW,MCO
+1118,2011,3,"Detroit, MI","Orlando, FL",957,1991,117.87,DTW,MCO
+1119,2011,4,"Detroit, MI","Orlando, FL",957,2160,139.18,DTW,MCO
+1120,2012,1,"Detroit, MI","Orlando, FL",957,2505,164.08,DTW,MCO
+1121,2012,2,"Detroit, MI","Orlando, FL",957,2207,156.41,DTW,MCO
+1122,2012,3,"Detroit, MI","Orlando, FL",957,1690,132.87,DTW,MCO
+1123,2012,4,"Detroit, MI","Orlando, FL",957,1924,154.56,DTW,MCO
+1124,2013,1,"Detroit, MI","Orlando, FL",957,2326,179.94,DTW,MCO
+1125,2013,2,"Detroit, MI","Orlando, FL",957,1907,163.99,DTW,MCO
+1126,2013,3,"Detroit, MI","Orlando, FL",957,1437,160.27,DTW,MCO
+1127,2013,4,"Detroit, MI","Orlando, FL",957,1936,163.39,DTW,MCO
+1128,2011,1,"Detroit, MI","Philadelphia, PA",453,533,251.99,DTW,PHL
+1129,2011,2,"Detroit, MI","Philadelphia, PA",453,629,254.26,DTW,PHL
+1130,2011,3,"Detroit, MI","Philadelphia, PA",453,546,281.99,DTW,PHL
+1131,2011,4,"Detroit, MI","Philadelphia, PA",453,559,276.17,DTW,PHL
+1132,2012,1,"Detroit, MI","Philadelphia, PA",453,445,320.73,DTW,PHL
+1133,2012,2,"Detroit, MI","Philadelphia, PA",453,522,312.1,DTW,PHL
+1134,2012,3,"Detroit, MI","Philadelphia, PA",453,495,295.64,DTW,PHL
+1135,2012,4,"Detroit, MI","Philadelphia, PA",453,533,299.83,DTW,PHL
+1136,2013,1,"Detroit, MI","Philadelphia, PA",453,422,308.51,DTW,PHL
+1137,2013,2,"Detroit, MI","Philadelphia, PA",453,521,319.91,DTW,PHL
+1138,2013,3,"Detroit, MI","Philadelphia, PA",453,469,329.19,DTW,PHL
+1139,2013,4,"Detroit, MI","Philadelphia, PA",453,490,329.17,DTW,PHL
+1140,2011,1,"Detroit, MI","Phoenix, AZ",1671,1076,217.33,DTW,PHX
+1141,2011,2,"Detroit, MI","Phoenix, AZ",1671,1179,209.9,DTW,PHX
+1142,2011,3,"Detroit, MI","Phoenix, AZ",1671,1021,195.5,DTW,PHX
+1143,2011,4,"Detroit, MI","Phoenix, AZ",1671,1182,205.24,DTW,PHX
+1144,2012,1,"Detroit, MI","Phoenix, AZ",1671,1127,226.93,DTW,PHX
+1145,2012,2,"Detroit, MI","Phoenix, AZ",1671,1052,232.62,DTW,PHX
+1146,2012,3,"Detroit, MI","Phoenix, AZ",1671,864,233.74,DTW,PHX
+1147,2012,4,"Detroit, MI","Phoenix, AZ",1671,997,251.63,DTW,PHX
+1148,2013,1,"Detroit, MI","Phoenix, AZ",1671,1028,252.77,DTW,PHX
+1149,2013,2,"Detroit, MI","Phoenix, AZ",1671,1046,237.39,DTW,PHX
+1150,2013,3,"Detroit, MI","Phoenix, AZ",1671,833,256.78,DTW,PHX
+1151,2013,4,"Detroit, MI","Phoenix, AZ",1671,993,262.68,DTW,PHX
+1152,2011,1,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,716,284.74,DTW,SFO
+1153,2011,2,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,1009,286.95,DTW,SFO
+1154,2011,3,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,1125,290.55,DTW,SFO
+1155,2011,4,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,968,293.32,DTW,SFO
+1156,2012,1,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,726,312.75,DTW,SFO
+1157,2012,2,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,979,318.31,DTW,SFO
+1158,2012,3,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,1172,299.61,DTW,SFO
+1159,2012,4,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,1054,319.28,DTW,SFO
+1160,2013,1,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,722,322.38,DTW,SFO
+1161,2013,2,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,1091,313.31,DTW,SFO
+1162,2013,3,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,1169,327.69,DTW,SFO
+1163,2013,4,"Detroit, MI","San Francisco, CA (Metropolitan Area)",2079,1079,334.46,DTW,SFO
+1164,2011,1,"Detroit, MI","Seattle, WA",1927,314,275.81,DTW,SEA
+1165,2011,2,"Detroit, MI","Seattle, WA",1927,525,297.92,DTW,SEA
+1166,2011,3,"Detroit, MI","Seattle, WA",1927,677,303.42,DTW,SEA
+1167,2011,4,"Detroit, MI","Seattle, WA",1927,458,297.23,DTW,SEA
+1168,2012,1,"Detroit, MI","Seattle, WA",1927,323,316.89,DTW,SEA
+1169,2012,2,"Detroit, MI","Seattle, WA",1927,501,321.12,DTW,SEA
+1170,2012,3,"Detroit, MI","Seattle, WA",1927,648,306.14,DTW,SEA
+1171,2012,4,"Detroit, MI","Seattle, WA",1927,505,317.48,DTW,SEA
+1172,2013,1,"Detroit, MI","Seattle, WA",1927,319,326.63,DTW,SEA
+1173,2013,2,"Detroit, MI","Seattle, WA",1927,504,320.27,DTW,SEA
+1174,2013,3,"Detroit, MI","Seattle, WA",1927,658,326.72,DTW,SEA
+1175,2013,4,"Detroit, MI","Seattle, WA",1927,495,321.26,DTW,SEA
+1176,2011,1,"Houston, TX","Las Vegas, NV",1235,1445,225.49,IAH,LAS
+1177,2011,2,"Houston, TX","Las Vegas, NV",1235,1639,217.26,IAH,LAS
+1178,2011,3,"Houston, TX","Las Vegas, NV",1235,1750,204.11,IAH,LAS
+1179,2011,4,"Houston, TX","Las Vegas, NV",1235,1696,213.36,IAH,LAS
+1180,2012,1,"Houston, TX","Las Vegas, NV",1235,1407,228.99,IAH,LAS
+1181,2012,2,"Houston, TX","Las Vegas, NV",1235,1488,248.23,IAH,LAS
+1182,2012,3,"Houston, TX","Las Vegas, NV",1235,1380,253.21,IAH,LAS
+1183,2012,4,"Houston, TX","Las Vegas, NV",1235,1601,241.13,IAH,LAS
+1184,2013,1,"Houston, TX","Las Vegas, NV",1235,1585,227.87,IAH,LAS
+1185,2013,2,"Houston, TX","Las Vegas, NV",1235,1860,210.75,IAH,LAS
+1186,2013,3,"Houston, TX","Las Vegas, NV",1235,1630,223.7,IAH,LAS
+1187,2013,4,"Houston, TX","Las Vegas, NV",1235,1650,226.15,IAH,LAS
+1188,2011,1,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2129,280.21,IAH,LAX
+1189,2011,2,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2641,259.38,IAH,LAX
+1190,2011,3,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2621,254.28,IAH,LAX
+1191,2011,4,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2695,272.36,IAH,LAX
+1192,2012,1,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2166,262.85,IAH,LAX
+1193,2012,2,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2525,284.42,IAH,LAX
+1194,2012,3,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2514,285.48,IAH,LAX
+1195,2012,4,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2571,293.8,IAH,LAX
+1196,2013,1,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2370,292.81,IAH,LAX
+1197,2013,2,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2713,276.31,IAH,LAX
+1198,2013,3,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2514,290.99,IAH,LAX
+1199,2013,4,"Houston, TX","Los Angeles, CA (Metropolitan Area)",1390,2775,267.41,IAH,LAX
+1200,2011,1,"Houston, TX","Miami, FL (Metropolitan Area)",965,1018,239.37,IAH,MIA
+1201,2011,2,"Houston, TX","Miami, FL (Metropolitan Area)",965,1160,232.91,IAH,MIA
+1202,2011,3,"Houston, TX","Miami, FL (Metropolitan Area)",965,959,235.73,IAH,MIA
+1203,2011,4,"Houston, TX","Miami, FL (Metropolitan Area)",965,1098,231.95,IAH,MIA
+1204,2012,1,"Houston, TX","Miami, FL (Metropolitan Area)",965,990,252.62,IAH,MIA
+1205,2012,2,"Houston, TX","Miami, FL (Metropolitan Area)",965,1186,240.89,IAH,MIA
+1206,2012,3,"Houston, TX","Miami, FL (Metropolitan Area)",965,998,239.64,IAH,MIA
+1207,2012,4,"Houston, TX","Miami, FL (Metropolitan Area)",965,1134,246.53,IAH,MIA
+1208,2013,1,"Houston, TX","Miami, FL (Metropolitan Area)",965,1065,264.15,IAH,MIA
+1209,2013,2,"Houston, TX","Miami, FL (Metropolitan Area)",965,1199,250.12,IAH,MIA
+1210,2013,3,"Houston, TX","Miami, FL (Metropolitan Area)",965,966,265.87,IAH,MIA
+1211,2013,4,"Houston, TX","Miami, FL (Metropolitan Area)",965,1136,266.07,IAH,MIA
+1212,2011,1,"Houston, TX","Minneapolis/St. Paul, MN",1057,446,263.51,IAH,MSP
+1213,2011,2,"Houston, TX","Minneapolis/St. Paul, MN",1057,551,272.15,IAH,MSP
+1214,2011,3,"Houston, TX","Minneapolis/St. Paul, MN",1057,582,267.66,IAH,MSP
+1215,2011,4,"Houston, TX","Minneapolis/St. Paul, MN",1057,471,297.66,IAH,MSP
+1216,2012,1,"Houston, TX","Minneapolis/St. Paul, MN",1057,425,326.55,IAH,MSP
+1217,2012,2,"Houston, TX","Minneapolis/St. Paul, MN",1057,487,354.53,IAH,MSP
+1218,2012,3,"Houston, TX","Minneapolis/St. Paul, MN",1057,474,338.86,IAH,MSP
+1219,2012,4,"Houston, TX","Minneapolis/St. Paul, MN",1057,486,332.07,IAH,MSP
+1220,2013,1,"Houston, TX","Minneapolis/St. Paul, MN",1057,441,361.32,IAH,MSP
+1221,2013,2,"Houston, TX","Minneapolis/St. Paul, MN",1057,502,350.59,IAH,MSP
+1222,2013,3,"Houston, TX","Minneapolis/St. Paul, MN",1057,499,370.79,IAH,MSP
+1223,2013,4,"Houston, TX","Minneapolis/St. Paul, MN",1057,471,343.47,IAH,MSP
+1224,2011,1,"Houston, TX","New York City, NY (Metropolitan Area)",1465,2432,320.56,IAH,JFK
+1225,2011,2,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3232,312.42,IAH,JFK
+1226,2011,3,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3052,296.38,IAH,JFK
+1227,2011,4,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3123,295.78,IAH,JFK
+1228,2012,1,"Houston, TX","New York City, NY (Metropolitan Area)",1465,2484,303.49,IAH,JFK
+1229,2012,2,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3327,295.87,IAH,JFK
+1230,2012,3,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3097,292.34,IAH,JFK
+1231,2012,4,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3352,318.96,IAH,JFK
+1232,2013,1,"Houston, TX","New York City, NY (Metropolitan Area)",1465,2829,321.66,IAH,JFK
+1233,2013,2,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3767,280.97,IAH,JFK
+1234,2013,3,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3583,281.21,IAH,JFK
+1235,2013,4,"Houston, TX","New York City, NY (Metropolitan Area)",1465,3948,288.14,IAH,JFK
+1236,2011,1,"Houston, TX","Orlando, FL",853,1070,215.27,IAH,MCO
+1237,2011,2,"Houston, TX","Orlando, FL",853,1221,217.19,IAH,MCO
+1238,2011,3,"Houston, TX","Orlando, FL",854,955,229.3,IAH,MCO
+1239,2011,4,"Houston, TX","Orlando, FL",854,1089,220.01,IAH,MCO
+1240,2012,1,"Houston, TX","Orlando, FL",854,965,234.42,IAH,MCO
+1241,2012,2,"Houston, TX","Orlando, FL",854,1146,225.59,IAH,MCO
+1242,2012,3,"Houston, TX","Orlando, FL",854,1009,220.06,IAH,MCO
+1243,2012,4,"Houston, TX","Orlando, FL",854,1097,232.62,IAH,MCO
+1244,2013,1,"Houston, TX","Orlando, FL",854,1127,237.16,IAH,MCO
+1245,2013,2,"Houston, TX","Orlando, FL",854,1282,201.27,IAH,MCO
+1246,2013,3,"Houston, TX","Orlando, FL",854,1079,207.48,IAH,MCO
+1247,2013,4,"Houston, TX","Orlando, FL",854,1237,221.01,IAH,MCO
+1248,2011,1,"Houston, TX","Philadelphia, PA",1335,877,225.12,IAH,PHL
+1249,2011,2,"Houston, TX","Philadelphia, PA",1335,1037,238.49,IAH,PHL
+1250,2011,3,"Houston, TX","Philadelphia, PA",1336,925,246.64,IAH,PHL
+1251,2011,4,"Houston, TX","Philadelphia, PA",1336,983,233.7,IAH,PHL
+1252,2012,1,"Houston, TX","Philadelphia, PA",1336,744,246.75,IAH,PHL
+1253,2012,2,"Houston, TX","Philadelphia, PA",1336,1013,248.78,IAH,PHL
+1254,2012,3,"Houston, TX","Philadelphia, PA",1336,1047,231.76,IAH,PHL
+1255,2012,4,"Houston, TX","Philadelphia, PA",1336,1153,215.14,IAH,PHL
+1256,2013,1,"Houston, TX","Philadelphia, PA",1336,924,240.48,IAH,PHL
+1257,2013,2,"Houston, TX","Philadelphia, PA",1336,891,295.06,IAH,PHL
+1258,2013,3,"Houston, TX","Philadelphia, PA",1336,731,346.56,IAH,PHL
+1259,2013,4,"Houston, TX","Philadelphia, PA",1336,721,352.01,IAH,PHL
+1260,2011,1,"Houston, TX","Phoenix, AZ",1020,827,233.54,IAH,PHX
+1261,2011,2,"Houston, TX","Phoenix, AZ",1020,869,223.01,IAH,PHX
+1262,2011,3,"Houston, TX","Phoenix, AZ",1020,751,216.77,IAH,PHX
+1263,2011,4,"Houston, TX","Phoenix, AZ",1020,909,216.22,IAH,PHX
+1264,2012,1,"Houston, TX","Phoenix, AZ",1020,835,236.64,IAH,PHX
+1265,2012,2,"Houston, TX","Phoenix, AZ",1020,824,256.24,IAH,PHX
+1266,2012,3,"Houston, TX","Phoenix, AZ",1020,667,257.02,IAH,PHX
+1267,2012,4,"Houston, TX","Phoenix, AZ",1020,882,260.23,IAH,PHX
+1268,2013,1,"Houston, TX","Phoenix, AZ",1020,876,263.54,IAH,PHX
+1269,2013,2,"Houston, TX","Phoenix, AZ",1020,892,256.7,IAH,PHX
+1270,2013,3,"Houston, TX","Phoenix, AZ",1020,674,289.71,IAH,PHX
+1271,2013,4,"Houston, TX","Phoenix, AZ",1020,927,269.49,IAH,PHX
+1272,2011,1,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1316,314.82,IAH,SFO
+1273,2011,2,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1602,292.42,IAH,SFO
+1274,2011,3,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1639,297.12,IAH,SFO
+1275,2011,4,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1558,287.92,IAH,SFO
+1276,2012,1,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1201,319.23,IAH,SFO
+1277,2012,2,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1579,312.06,IAH,SFO
+1278,2012,3,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1710,308.61,IAH,SFO
+1279,2012,4,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1723,309.54,IAH,SFO
+1280,2013,1,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1482,327.75,IAH,SFO
+1281,2013,2,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1679,332.38,IAH,SFO
+1282,2013,3,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1679,336.24,IAH,SFO
+1283,2013,4,"Houston, TX","San Francisco, CA (Metropolitan Area)",1649,1770,313.06,IAH,SFO
+1284,2011,1,"Houston, TX","Seattle, WA",1894,586,222.09,IAH,SEA
+1285,2011,2,"Houston, TX","Seattle, WA",1894,944,220.01,IAH,SEA
+1286,2011,3,"Houston, TX","Seattle, WA",1894,1021,232.21,IAH,SEA
+1287,2011,4,"Houston, TX","Seattle, WA",1894,783,221.32,IAH,SEA
+1288,2012,1,"Houston, TX","Seattle, WA",1894,622,232.64,IAH,SEA
+1289,2012,2,"Houston, TX","Seattle, WA",1894,917,262.94,IAH,SEA
+1290,2012,3,"Houston, TX","Seattle, WA",1894,933,280.18,IAH,SEA
+1291,2012,4,"Houston, TX","Seattle, WA",1894,700,282.03,IAH,SEA
+1292,2013,1,"Houston, TX","Seattle, WA",1894,620,277.96,IAH,SEA
+1293,2013,2,"Houston, TX","Seattle, WA",1894,819,273.6,IAH,SEA
+1294,2013,3,"Houston, TX","Seattle, WA",1894,981,284.46,IAH,SEA
+1295,2013,4,"Houston, TX","Seattle, WA",1894,749,265.0,IAH,SEA
+1296,2011,1,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,5380,132.39,LAS,LAX
+1297,2011,2,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,6026,127.83,LAS,LAX
+1298,2011,3,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,6474,115.0,LAS,LAX
+1299,2011,4,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,5733,119.58,LAS,LAX
+1300,2012,1,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,5644,123.99,LAS,LAX
+1301,2012,2,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,5931,123.33,LAS,LAX
+1302,2012,3,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,6168,116.65,LAS,LAX
+1303,2012,4,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,5682,116.15,LAS,LAX
+1304,2013,1,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,5903,124.71,LAS,LAX
+1305,2013,2,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,6409,123.68,LAS,LAX
+1306,2013,3,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,6159,125.56,LAS,LAX
+1307,2013,4,"Las Vegas, NV","Los Angeles, CA (Metropolitan Area)",236,5765,120.25,LAS,LAX
+1308,2011,1,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2175,1209,239.74,LAS,MIA
+1309,2011,2,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2175,1296,240.95,LAS,MIA
+1310,2011,3,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1235,241.89,LAS,MIA
+1311,2011,4,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1070,275.71,LAS,MIA
+1312,2012,1,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1151,273.57,LAS,MIA
+1313,2012,2,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1207,258.07,LAS,MIA
+1314,2012,3,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1159,243.45,LAS,MIA
+1315,2012,4,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1174,248.43,LAS,MIA
+1316,2013,1,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1312,256.39,LAS,MIA
+1317,2013,2,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1342,252.34,LAS,MIA
+1318,2013,3,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1295,243.97,LAS,MIA
+1319,2013,4,"Las Vegas, NV","Miami, FL (Metropolitan Area)",2174,1303,252.08,LAS,MIA
+1320,2011,1,"Las Vegas, NV","Minneapolis/St. Paul, MN",1300,1765,191.81,LAS,MSP
+1321,2011,2,"Las Vegas, NV","Minneapolis/St. Paul, MN",1300,1498,197.42,LAS,MSP
+1322,2011,3,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1149,195.85,LAS,MSP
+1323,2011,4,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1325,202.2,LAS,MSP
+1324,2012,1,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1675,207.48,LAS,MSP
+1325,2012,2,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1495,196.63,LAS,MSP
+1326,2012,3,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1275,185.62,LAS,MSP
+1327,2012,4,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1459,190.02,LAS,MSP
+1328,2013,1,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1794,203.14,LAS,MSP
+1329,2013,2,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1588,194.69,LAS,MSP
+1330,2013,3,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1302,178.24,LAS,MSP
+1331,2013,4,"Las Vegas, NV","Minneapolis/St. Paul, MN",1299,1578,166.97,LAS,MSP
+1332,2011,1,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2283,3725,265.09,LAS,JFK
+1333,2011,2,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2283,4552,288.48,LAS,JFK
+1334,2011,3,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,4447,277.35,LAS,JFK
+1335,2011,4,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,3469,269.17,LAS,JFK
+1336,2012,1,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,3524,274.08,LAS,JFK
+1337,2012,2,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,4376,299.12,LAS,JFK
+1338,2012,3,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,4067,285.5,LAS,JFK
+1339,2012,4,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,3157,287.55,LAS,JFK
+1340,2013,1,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,3399,314.52,LAS,JFK
+1341,2013,2,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,4391,294.75,LAS,JFK
+1342,2013,3,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,4057,300.77,LAS,JFK
+1343,2013,4,"Las Vegas, NV","New York City, NY (Metropolitan Area)",2282,3290,292.22,LAS,JFK
+1344,2011,1,"Las Vegas, NV","Orlando, FL",2039,721,231.14,LAS,MCO
+1345,2011,2,"Las Vegas, NV","Orlando, FL",2039,789,234.74,LAS,MCO
+1346,2011,3,"Las Vegas, NV","Orlando, FL",2039,727,247.08,LAS,MCO
+1347,2011,4,"Las Vegas, NV","Orlando, FL",2039,726,237.33,LAS,MCO
+1348,2012,1,"Las Vegas, NV","Orlando, FL",2039,743,239.58,LAS,MCO
+1349,2012,2,"Las Vegas, NV","Orlando, FL",2039,787,258.83,LAS,MCO
+1350,2012,3,"Las Vegas, NV","Orlando, FL",2039,707,248.4,LAS,MCO
+1351,2012,4,"Las Vegas, NV","Orlando, FL",2039,672,261.92,LAS,MCO
+1352,2013,1,"Las Vegas, NV","Orlando, FL",2039,682,270.52,LAS,MCO
+1353,2013,2,"Las Vegas, NV","Orlando, FL",2039,786,257.63,LAS,MCO
+1354,2013,3,"Las Vegas, NV","Orlando, FL",2039,686,270.59,LAS,MCO
+1355,2013,4,"Las Vegas, NV","Orlando, FL",2039,631,277.64,LAS,MCO
+1356,2011,1,"Las Vegas, NV","Philadelphia, PA",2176,1126,241.04,LAS,PHL
+1357,2011,2,"Las Vegas, NV","Philadelphia, PA",2176,1313,257.08,LAS,PHL
+1358,2011,3,"Las Vegas, NV","Philadelphia, PA",2176,1264,245.7,LAS,PHL
+1359,2011,4,"Las Vegas, NV","Philadelphia, PA",2176,1141,246.18,LAS,PHL
+1360,2012,1,"Las Vegas, NV","Philadelphia, PA",2176,1106,251.17,LAS,PHL
+1361,2012,2,"Las Vegas, NV","Philadelphia, PA",2176,1386,257.04,LAS,PHL
+1362,2012,3,"Las Vegas, NV","Philadelphia, PA",2176,1311,228.11,LAS,PHL
+1363,2012,4,"Las Vegas, NV","Philadelphia, PA",2176,1288,214.65,LAS,PHL
+1364,2013,1,"Las Vegas, NV","Philadelphia, PA",2176,1341,229.72,LAS,PHL
+1365,2013,2,"Las Vegas, NV","Philadelphia, PA",2176,1596,219.72,LAS,PHL
+1366,2013,3,"Las Vegas, NV","Philadelphia, PA",2176,1660,203.65,LAS,PHL
+1367,2013,4,"Las Vegas, NV","Philadelphia, PA",2176,1541,184.75,LAS,PHL
+1368,2011,1,"Las Vegas, NV","Phoenix, AZ",256,1920,128.68,LAS,PHX
+1369,2011,2,"Las Vegas, NV","Phoenix, AZ",256,1803,132.9,LAS,PHX
+1370,2011,3,"Las Vegas, NV","Phoenix, AZ",255,1618,126.37,LAS,PHX
+1371,2011,4,"Las Vegas, NV","Phoenix, AZ",276,1751,126.24,LAS,PHX
+1372,2012,1,"Las Vegas, NV","Phoenix, AZ",276,1674,127.7,LAS,PHX
+1373,2012,2,"Las Vegas, NV","Phoenix, AZ",276,1718,109.94,LAS,PHX
+1374,2012,3,"Las Vegas, NV","Phoenix, AZ",276,1628,109.13,LAS,PHX
+1375,2012,4,"Las Vegas, NV","Phoenix, AZ",276,1797,115.04,LAS,PHX
+1376,2013,1,"Las Vegas, NV","Phoenix, AZ",276,1981,120.42,LAS,PHX
+1377,2013,2,"Las Vegas, NV","Phoenix, AZ",276,1778,120.41,LAS,PHX
+1378,2013,3,"Las Vegas, NV","Phoenix, AZ",255,1360,130.87,LAS,PHX
+1379,2013,4,"Las Vegas, NV","Phoenix, AZ",276,1642,124.75,LAS,PHX
+1380,2011,1,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5157,135.65,LAS,SFO
+1381,2011,2,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5914,139.93,LAS,SFO
+1382,2011,3,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,6318,128.33,LAS,SFO
+1383,2011,4,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5896,124.0,LAS,SFO
+1384,2012,1,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5700,120.66,LAS,SFO
+1385,2012,2,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,6160,132.84,LAS,SFO
+1386,2012,3,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,6173,126.21,LAS,SFO
+1387,2012,4,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5537,133.78,LAS,SFO
+1388,2013,1,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5397,141.14,LAS,SFO
+1389,2013,2,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5952,142.13,LAS,SFO
+1390,2013,3,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5578,152.74,LAS,SFO
+1391,2013,4,"Las Vegas, NV","San Francisco, CA (Metropolitan Area)",414,5388,142.88,LAS,SFO
+1392,2011,1,"Las Vegas, NV","Seattle, WA",866,2033,153.45,LAS,SEA
+1393,2011,2,"Las Vegas, NV","Seattle, WA",866,2400,159.54,LAS,SEA
+1394,2011,3,"Las Vegas, NV","Seattle, WA",867,2285,150.25,LAS,SEA
+1395,2011,4,"Las Vegas, NV","Seattle, WA",867,2083,146.31,LAS,SEA
+1396,2012,1,"Las Vegas, NV","Seattle, WA",867,1990,153.03,LAS,SEA
+1397,2012,2,"Las Vegas, NV","Seattle, WA",867,2285,162.73,LAS,SEA
+1398,2012,3,"Las Vegas, NV","Seattle, WA",867,1986,162.85,LAS,SEA
+1399,2012,4,"Las Vegas, NV","Seattle, WA",867,1926,171.61,LAS,SEA
+1400,2013,1,"Las Vegas, NV","Seattle, WA",867,2128,165.34,LAS,SEA
+1401,2013,2,"Las Vegas, NV","Seattle, WA",867,2489,154.43,LAS,SEA
+1402,2013,3,"Las Vegas, NV","Seattle, WA",867,2178,158.38,LAS,SEA
+1403,2013,4,"Las Vegas, NV","Seattle, WA",867,1984,168.77,LAS,SEA
+1404,2011,1,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,2740,267.71,LAX,MIA
+1405,2011,2,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,2919,253.23,LAX,MIA
+1406,2011,3,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,2572,252.96,LAX,MIA
+1407,2011,4,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,2879,267.39,LAX,MIA
+1408,2012,1,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,3063,269.83,LAX,MIA
+1409,2012,2,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,3004,269.99,LAX,MIA
+1410,2012,3,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,2587,262.71,LAX,MIA
+1411,2012,4,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,2977,281.33,LAX,MIA
+1412,2013,1,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,3182,286.03,LAX,MIA
+1413,2013,2,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,3102,270.13,LAX,MIA
+1414,2013,3,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,2681,273.46,LAX,MIA
+1415,2013,4,"Los Angeles, CA (Metropolitan Area)","Miami, FL (Metropolitan Area)",2342,3101,286.79,LAX,MIA
+1416,2011,1,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1536,1596,252.43,LAX,MSP
+1417,2011,2,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1536,1871,233.22,LAX,MSP
+1418,2011,3,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1991,237.22,LAX,MSP
+1419,2011,4,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1693,246.44,LAX,MSP
+1420,2012,1,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1557,264.53,LAX,MSP
+1421,2012,2,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1701,276.13,LAX,MSP
+1422,2012,3,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1757,266.46,LAX,MSP
+1423,2012,4,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1642,274.88,LAX,MSP
+1424,2013,1,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1524,282.16,LAX,MSP
+1425,2013,2,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1755,279.68,LAX,MSP
+1426,2013,3,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1797,285.27,LAX,MSP
+1427,2013,4,"Los Angeles, CA (Metropolitan Area)","Minneapolis/St. Paul, MN",1535,1762,259.27,LAX,MSP
+1428,2011,1,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,8945,341.55,LAX,JFK
+1429,2011,2,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,10857,359.89,LAX,JFK
+1430,2011,3,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,10761,361.48,LAX,JFK
+1431,2011,4,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,10331,350.25,LAX,JFK
+1432,2012,1,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,9181,334.74,LAX,JFK
+1433,2012,2,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,11451,362.32,LAX,JFK
+1434,2012,3,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,11053,353.77,LAX,JFK
+1435,2012,4,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,10595,356.72,LAX,JFK
+1436,2013,1,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,9433,366.88,LAX,JFK
+1437,2013,2,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,12088,352.8,LAX,JFK
+1438,2013,3,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,11762,362.74,LAX,JFK
+1439,2013,4,"Los Angeles, CA (Metropolitan Area)","New York City, NY (Metropolitan Area)",2510,11616,354.93,LAX,JFK
+1440,2011,1,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2217,1759,249.46,LAX,MCO
+1441,2011,2,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2217,1922,252.12,LAX,MCO
+1442,2011,3,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1784,246.23,LAX,MCO
+1443,2011,4,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1809,258.58,LAX,MCO
+1444,2012,1,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1762,260.45,LAX,MCO
+1445,2012,2,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1871,275.64,LAX,MCO
+1446,2012,3,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1790,253.96,LAX,MCO
+1447,2012,4,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1881,255.53,LAX,MCO
+1448,2013,1,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1860,263.28,LAX,MCO
+1449,2013,2,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,2034,257.43,LAX,MCO
+1450,2013,3,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1835,266.53,LAX,MCO
+1451,2013,4,"Los Angeles, CA (Metropolitan Area)","Orlando, FL",2218,1854,273.78,LAX,MCO
+1452,2011,1,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2401,1413,312.05,LAX,PHL
+1453,2011,2,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2401,1872,311.02,LAX,PHL
+1454,2011,3,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,1849,321.66,LAX,PHL
+1455,2011,4,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,1736,310.73,LAX,PHL
+1456,2012,1,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,1485,281.05,LAX,PHL
+1457,2012,2,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,2437,257.37,LAX,PHL
+1458,2012,3,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,2342,256.57,LAX,PHL
+1459,2012,4,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,2094,273.96,LAX,PHL
+1460,2013,1,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,1730,276.87,LAX,PHL
+1461,2013,2,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,2109,286.05,LAX,PHL
+1462,2013,3,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,2029,297.51,LAX,PHL
+1463,2013,4,"Los Angeles, CA (Metropolitan Area)","Philadelphia, PA",2402,2088,272.93,LAX,PHL
+1464,2011,1,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,4920,132.18,LAX,PHX
+1465,2011,2,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,5022,133.59,LAX,PHX
+1466,2011,3,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,4438,134.42,LAX,PHX
+1467,2011,4,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,5035,134.55,LAX,PHX
+1468,2012,1,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",392,5025,133.69,LAX,PHX
+1469,2012,2,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",392,4925,133.23,LAX,PHX
+1470,2012,3,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",392,4470,125.82,LAX,PHX
+1471,2012,4,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,4977,128.07,LAX,PHX
+1472,2013,1,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,4949,133.92,LAX,PHX
+1473,2013,2,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,4813,134.85,LAX,PHX
+1474,2013,3,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,3970,154.74,LAX,PHX
+1475,2013,4,"Los Angeles, CA (Metropolitan Area)","Phoenix, AZ",370,4701,139.91,LAX,PHX
+1476,2011,1,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,17727,128.11,LAX,SFO
+1477,2011,2,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,19019,135.46,LAX,SFO
+1478,2011,3,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,18777,131.04,LAX,SFO
+1479,2011,4,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,19595,134.36,LAX,SFO
+1480,2012,1,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,18311,125.52,LAX,SFO
+1481,2012,2,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,19720,134.34,LAX,SFO
+1482,2012,3,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,19630,122.08,LAX,SFO
+1483,2012,4,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,19936,132.5,LAX,SFO
+1484,2013,1,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,18027,135.06,LAX,SFO
+1485,2013,2,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,20169,134.76,LAX,SFO
+1486,2013,3,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,18578,141.36,LAX,SFO
+1487,2013,4,"Los Angeles, CA (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",372,20657,129.42,LAX,SFO
+1488,2011,1,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,5350,144.47,LAX,SEA
+1489,2011,2,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,6417,158.49,LAX,SEA
+1490,2011,3,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,6679,168.01,LAX,SEA
+1491,2011,4,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,5807,172.71,LAX,SEA
+1492,2012,1,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,5360,147.57,LAX,SEA
+1493,2012,2,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,6180,169.51,LAX,SEA
+1494,2012,3,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,6119,176.31,LAX,SEA
+1495,2012,4,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,5675,177.62,LAX,SEA
+1496,2013,1,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,5334,166.19,LAX,SEA
+1497,2013,2,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,6486,169.54,LAX,SEA
+1498,2013,3,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,7094,166.69,LAX,SEA
+1499,2013,4,"Los Angeles, CA (Metropolitan Area)","Seattle, WA",978,6178,164.32,LAX,SEA
+1500,2011,1,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,1288,229.22,MIA,MSP
+1501,2011,2,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,678,219.75,MIA,MSP
+1502,2011,3,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,484,221.75,MIA,MSP
+1503,2011,4,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,705,249.53,MIA,MSP
+1504,2012,1,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,1266,258.64,MIA,MSP
+1505,2012,2,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,682,253.64,MIA,MSP
+1506,2012,3,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,513,231.09,MIA,MSP
+1507,2012,4,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,767,243.01,MIA,MSP
+1508,2013,1,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,1351,252.52,MIA,MSP
+1509,2013,2,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,639,255.12,MIA,MSP
+1510,2013,3,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,442,265.65,MIA,MSP
+1511,2013,4,"Miami, FL (Metropolitan Area)","Minneapolis/St. Paul, MN",1501,765,244.62,MIA,MSP
+1512,2011,1,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,14855,174.61,MIA,JFK
+1513,2011,2,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,15128,166.01,MIA,JFK
+1514,2011,3,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,13561,152.51,MIA,JFK
+1515,2011,4,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,14556,173.73,MIA,JFK
+1516,2012,1,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,14909,187.63,MIA,JFK
+1517,2012,2,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,14351,178.68,MIA,JFK
+1518,2012,3,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,12452,166.3,MIA,JFK
+1519,2012,4,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,13871,179.0,MIA,JFK
+1520,2013,1,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,15907,193.31,MIA,JFK
+1521,2013,2,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,13946,173.15,MIA,JFK
+1522,2013,3,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,12086,183.26,MIA,JFK
+1523,2013,4,"Miami, FL (Metropolitan Area)","New York City, NY (Metropolitan Area)",1139,13797,203.91,MIA,JFK
+1524,2011,1,"Miami, FL (Metropolitan Area)","Orlando, FL",193,566,141.05,MIA,MCO
+1525,2011,2,"Miami, FL (Metropolitan Area)","Orlando, FL",193,583,145.33,MIA,MCO
+1526,2011,3,"Miami, FL (Metropolitan Area)","Orlando, FL",192,530,140.79,MIA,MCO
+1527,2011,4,"Miami, FL (Metropolitan Area)","Orlando, FL",192,589,130.65,MIA,MCO
+1528,2012,1,"Miami, FL (Metropolitan Area)","Orlando, FL",192,616,136.36,MIA,MCO
+1529,2012,2,"Miami, FL (Metropolitan Area)","Orlando, FL",192,553,136.86,MIA,MCO
+1530,2012,3,"Miami, FL (Metropolitan Area)","Orlando, FL",192,533,129.56,MIA,MCO
+1531,2012,4,"Miami, FL (Metropolitan Area)","Orlando, FL",192,545,130.57,MIA,MCO
+1532,2013,1,"Miami, FL (Metropolitan Area)","Orlando, FL",192,460,142.99,MIA,MCO
+1533,2013,2,"Miami, FL (Metropolitan Area)","Orlando, FL",192,423,128.49,MIA,MCO
+1534,2013,3,"Miami, FL (Metropolitan Area)","Orlando, FL",192,354,147.94,MIA,MCO
+1535,2013,4,"Miami, FL (Metropolitan Area)","Orlando, FL",192,361,154.78,MIA,MCO
+1536,2011,1,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2102,185.6,MIA,PHL
+1537,2011,2,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2064,188.92,MIA,PHL
+1538,2011,3,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,1492,187.8,MIA,PHL
+1539,2011,4,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2078,189.76,MIA,PHL
+1540,2012,1,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2033,205.58,MIA,PHL
+1541,2012,2,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2021,195.72,MIA,PHL
+1542,2012,3,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,1469,179.01,MIA,PHL
+1543,2012,4,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2095,173.84,MIA,PHL
+1544,2013,1,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2539,187.31,MIA,PHL
+1545,2013,2,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2222,168.29,MIA,PHL
+1546,2013,3,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,1834,171.49,MIA,PHL
+1547,2013,4,"Miami, FL (Metropolitan Area)","Philadelphia, PA",1013,2141,192.8,MIA,PHL
+1548,2011,1,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,768,238.08,MIA,PHX
+1549,2011,2,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,697,219.51,MIA,PHX
+1550,2011,3,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,502,220.99,MIA,PHX
+1551,2011,4,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,702,246.8,MIA,PHX
+1552,2012,1,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,742,268.08,MIA,PHX
+1553,2012,2,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,605,262.37,MIA,PHX
+1554,2012,3,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,444,238.07,MIA,PHX
+1555,2012,4,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,678,256.98,MIA,PHX
+1556,2013,1,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,775,276.27,MIA,PHX
+1557,2013,2,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,641,268.89,MIA,PHX
+1558,2013,3,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,444,273.84,MIA,PHX
+1559,2013,4,"Miami, FL (Metropolitan Area)","Phoenix, AZ",1972,685,281.84,MIA,PHX
+1560,2011,1,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1512,270.42,MIA,SFO
+1561,2011,2,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1603,272.26,MIA,SFO
+1562,2011,3,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1360,268.34,MIA,SFO
+1563,2011,4,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1570,289.22,MIA,SFO
+1564,2012,1,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1596,287.1,MIA,SFO
+1565,2012,2,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1708,278.62,MIA,SFO
+1566,2012,3,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1507,264.92,MIA,SFO
+1567,2012,4,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1763,285.28,MIA,SFO
+1568,2013,1,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1645,294.53,MIA,SFO
+1569,2013,2,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1779,273.97,MIA,SFO
+1570,2013,3,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1604,272.03,MIA,SFO
+1571,2013,4,"Miami, FL (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2585,1811,293.25,MIA,SFO
+1572,2011,1,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,626,266.38,MIA,SEA
+1573,2011,2,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,569,278.32,MIA,SEA
+1574,2011,3,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,502,282.96,MIA,SEA
+1575,2011,4,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,639,277.23,MIA,SEA
+1576,2012,1,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,642,281.38,MIA,SEA
+1577,2012,2,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,600,295.74,MIA,SEA
+1578,2012,3,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,537,283.36,MIA,SEA
+1579,2012,4,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,622,287.94,MIA,SEA
+1580,2013,1,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,636,297.83,MIA,SEA
+1581,2013,2,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,662,285.56,MIA,SEA
+1582,2013,3,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,571,304.12,MIA,SEA
+1583,2013,4,"Miami, FL (Metropolitan Area)","Seattle, WA",2724,631,297.72,MIA,SEA
+1584,2011,1,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,1490,300.55,MSP,JFK
+1585,2011,2,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2299,275.16,MSP,JFK
+1586,2011,3,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2445,263.71,MSP,JFK
+1587,2011,4,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2334,265.96,MSP,JFK
+1588,2012,1,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,1738,282.01,MSP,JFK
+1589,2012,2,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2423,291.91,MSP,JFK
+1590,2012,3,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2517,279.82,MSP,JFK
+1591,2012,4,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2224,278.04,MSP,JFK
+1592,2013,1,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,1682,307.2,MSP,JFK
+1593,2013,2,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2247,316.23,MSP,JFK
+1594,2013,3,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2207,328.72,MSP,JFK
+1595,2013,4,"Minneapolis/St. Paul, MN","New York City, NY (Metropolitan Area)",1057,2276,300.93,MSP,JFK
+1596,2011,1,"Minneapolis/St. Paul, MN","Orlando, FL",1310,2191,179.98,MSP,MCO
+1597,2011,2,"Minneapolis/St. Paul, MN","Orlando, FL",1310,1409,178.43,MSP,MCO
+1598,2011,3,"Minneapolis/St. Paul, MN","Orlando, FL",1310,1059,161.77,MSP,MCO
+1599,2011,4,"Minneapolis/St. Paul, MN","Orlando, FL",1310,1481,189.58,MSP,MCO
+1600,2012,1,"Minneapolis/St. Paul, MN","Orlando, FL",1310,2113,211.47,MSP,MCO
+1601,2012,2,"Minneapolis/St. Paul, MN","Orlando, FL",1310,1396,196.48,MSP,MCO
+1602,2012,3,"Minneapolis/St. Paul, MN","Orlando, FL",1310,1019,175.55,MSP,MCO
+1603,2012,4,"Minneapolis/St. Paul, MN","Orlando, FL",1310,1531,190.78,MSP,MCO
+1604,2013,1,"Minneapolis/St. Paul, MN","Orlando, FL",1310,2115,214.25,MSP,MCO
+1605,2013,2,"Minneapolis/St. Paul, MN","Orlando, FL",1310,1382,198.17,MSP,MCO
+1606,2013,3,"Minneapolis/St. Paul, MN","Orlando, FL",1310,877,201.02,MSP,MCO
+1607,2013,4,"Minneapolis/St. Paul, MN","Orlando, FL",1310,1547,190.37,MSP,MCO
+1608,2011,1,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,498,270.96,MSP,PHL
+1609,2011,2,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,735,263.0,MSP,PHL
+1610,2011,3,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,751,275.51,MSP,PHL
+1611,2011,4,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,616,304.94,MSP,PHL
+1612,2012,1,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,469,323.42,MSP,PHL
+1613,2012,2,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,632,334.91,MSP,PHL
+1614,2012,3,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,689,289.11,MSP,PHL
+1615,2012,4,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,591,307.29,MSP,PHL
+1616,2013,1,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,435,333.36,MSP,PHL
+1617,2013,2,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,650,340.19,MSP,PHL
+1618,2013,3,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,637,351.39,MSP,PHL
+1619,2013,4,"Minneapolis/St. Paul, MN","Philadelphia, PA",980,576,345.33,MSP,PHL
+1620,2011,1,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,2390,187.72,MSP,PHX
+1621,2011,2,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1527,176.38,MSP,PHX
+1622,2011,3,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1185,175.72,MSP,PHX
+1623,2011,4,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1665,189.76,MSP,PHX
+1624,2012,1,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,2331,192.98,MSP,PHX
+1625,2012,2,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1420,199.1,MSP,PHX
+1626,2012,3,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1078,198.18,MSP,PHX
+1627,2012,4,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1574,202.46,MSP,PHX
+1628,2013,1,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,2172,212.04,MSP,PHX
+1629,2013,2,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1425,200.83,MSP,PHX
+1630,2013,3,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1086,209.17,MSP,PHX
+1631,2013,4,"Minneapolis/St. Paul, MN","Phoenix, AZ",1276,1799,171.26,MSP,PHX
+1632,2011,1,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1000,291.52,MSP,SFO
+1633,2011,2,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1426,278.55,MSP,SFO
+1634,2011,3,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1515,269.71,MSP,SFO
+1635,2011,4,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1318,276.01,MSP,SFO
+1636,2012,1,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1078,292.42,MSP,SFO
+1637,2012,2,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1409,294.68,MSP,SFO
+1638,2012,3,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1598,283.26,MSP,SFO
+1639,2012,4,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1307,290.94,MSP,SFO
+1640,2013,1,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1070,314.75,MSP,SFO
+1641,2013,2,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1440,313.17,MSP,SFO
+1642,2013,3,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1609,296.02,MSP,SFO
+1643,2013,4,"Minneapolis/St. Paul, MN","San Francisco, CA (Metropolitan Area)",1589,1419,287.06,MSP,SFO
+1644,2011,1,"Minneapolis/St. Paul, MN","Seattle, WA",1399,523,246.1,MSP,SEA
+1645,2011,2,"Minneapolis/St. Paul, MN","Seattle, WA",1399,958,232.66,MSP,SEA
+1646,2011,3,"Minneapolis/St. Paul, MN","Seattle, WA",1399,1282,231.19,MSP,SEA
+1647,2011,4,"Minneapolis/St. Paul, MN","Seattle, WA",1399,784,236.86,MSP,SEA
+1648,2012,1,"Minneapolis/St. Paul, MN","Seattle, WA",1399,514,259.65,MSP,SEA
+1649,2012,2,"Minneapolis/St. Paul, MN","Seattle, WA",1399,994,230.74,MSP,SEA
+1650,2012,3,"Minneapolis/St. Paul, MN","Seattle, WA",1399,1330,222.75,MSP,SEA
+1651,2012,4,"Minneapolis/St. Paul, MN","Seattle, WA",1399,895,221.37,MSP,SEA
+1652,2013,1,"Minneapolis/St. Paul, MN","Seattle, WA",1399,624,221.91,MSP,SEA
+1653,2013,2,"Minneapolis/St. Paul, MN","Seattle, WA",1399,969,243.4,MSP,SEA
+1654,2013,3,"Minneapolis/St. Paul, MN","Seattle, WA",1399,1256,242.83,MSP,SEA
+1655,2013,4,"Minneapolis/St. Paul, MN","Seattle, WA",1399,914,233.84,MSP,SEA
+1656,2011,1,"New York City, NY (Metropolitan Area)","Orlando, FL",989,8790,151.82,JFK,MCO
+1657,2011,2,"New York City, NY (Metropolitan Area)","Orlando, FL",989,10160,159.45,JFK,MCO
+1658,2011,3,"New York City, NY (Metropolitan Area)","Orlando, FL",989,10560,150.47,JFK,MCO
+1659,2011,4,"New York City, NY (Metropolitan Area)","Orlando, FL",989,9224,160.54,JFK,MCO
+1660,2012,1,"New York City, NY (Metropolitan Area)","Orlando, FL",989,8511,169.73,JFK,MCO
+1661,2012,2,"New York City, NY (Metropolitan Area)","Orlando, FL",989,10321,161.47,JFK,MCO
+1662,2012,3,"New York City, NY (Metropolitan Area)","Orlando, FL",989,10043,156.51,JFK,MCO
+1663,2012,4,"New York City, NY (Metropolitan Area)","Orlando, FL",989,8704,166.33,JFK,MCO
+1664,2013,1,"New York City, NY (Metropolitan Area)","Orlando, FL",989,8980,175.72,JFK,MCO
+1665,2013,2,"New York City, NY (Metropolitan Area)","Orlando, FL",989,9824,161.01,JFK,MCO
+1666,2013,3,"New York City, NY (Metropolitan Area)","Orlando, FL",989,9685,174.58,JFK,MCO
+1667,2013,4,"New York City, NY (Metropolitan Area)","Orlando, FL",989,8850,182.87,JFK,MCO
+1668,2011,1,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2112,281.11,JFK,PHX
+1669,2011,2,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2583,265.67,JFK,PHX
+1670,2011,3,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2339,244.2,JFK,PHX
+1671,2011,4,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2603,246.36,JFK,PHX
+1672,2012,1,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2347,227.27,JFK,PHX
+1673,2012,2,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2733,243.24,JFK,PHX
+1674,2012,3,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2167,245.79,JFK,PHX
+1675,2012,4,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2590,259.95,JFK,PHX
+1676,2013,1,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2386,278.35,JFK,PHX
+1677,2013,2,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2566,260.14,JFK,PHX
+1678,2013,3,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2100,269.2,JFK,PHX
+1679,2013,4,"New York City, NY (Metropolitan Area)","Phoenix, AZ",2189,2636,272.96,JFK,PHX
+1680,2011,1,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,6169,342.98,JFK,SFO
+1681,2011,2,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,7904,371.39,JFK,SFO
+1682,2011,3,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,7711,386.61,JFK,SFO
+1683,2011,4,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,7246,364.58,JFK,SFO
+1684,2012,1,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,6236,343.1,JFK,SFO
+1685,2012,2,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,8400,371.99,JFK,SFO
+1686,2012,3,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,8290,369.29,JFK,SFO
+1687,2012,4,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,7632,382.99,JFK,SFO
+1688,2013,1,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,6339,400.47,JFK,SFO
+1689,2013,2,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,8946,362.9,JFK,SFO
+1690,2013,3,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,9169,367.65,JFK,SFO
+1691,2013,4,"New York City, NY (Metropolitan Area)","San Francisco, CA (Metropolitan Area)",2619,8815,358.92,JFK,SFO
+1692,2011,1,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,1514,287.63,JFK,SEA
+1693,2011,2,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,2239,307.87,JFK,SEA
+1694,2011,3,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,2484,325.47,JFK,SEA
+1695,2011,4,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,1951,292.61,JFK,SEA
+1696,2012,1,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,1585,270.47,JFK,SEA
+1697,2012,2,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,2349,286.73,JFK,SEA
+1698,2012,3,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,2608,301.64,JFK,SEA
+1699,2012,4,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,1966,300.53,JFK,SEA
+1700,2013,1,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,1597,280.97,JFK,SEA
+1701,2013,2,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,2318,299.46,JFK,SEA
+1702,2013,3,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,2663,318.04,JFK,SEA
+1703,2013,4,"New York City, NY (Metropolitan Area)","Seattle, WA",2448,2182,295.8,JFK,SEA
+1704,2011,1,"Orlando, FL","Philadelphia, PA",861,3095,134.95,MCO,PHL
+1705,2011,2,"Orlando, FL","Philadelphia, PA",861,3193,155.19,MCO,PHL
+1706,2011,3,"Orlando, FL","Philadelphia, PA",861,3062,129.82,MCO,PHL
+1707,2011,4,"Orlando, FL","Philadelphia, PA",861,3095,148.02,MCO,PHL
+1708,2012,1,"Orlando, FL","Philadelphia, PA",861,2797,155.26,MCO,PHL
+1709,2012,2,"Orlando, FL","Philadelphia, PA",861,3188,153.24,MCO,PHL
+1710,2012,3,"Orlando, FL","Philadelphia, PA",861,2732,141.12,MCO,PHL
+1711,2012,4,"Orlando, FL","Philadelphia, PA",861,3078,151.91,MCO,PHL
+1712,2013,1,"Orlando, FL","Philadelphia, PA",861,2828,166.47,MCO,PHL
+1713,2013,2,"Orlando, FL","Philadelphia, PA",861,2869,161.78,MCO,PHL
+1714,2013,3,"Orlando, FL","Philadelphia, PA",861,2323,170.46,MCO,PHL
+1715,2013,4,"Orlando, FL","Philadelphia, PA",861,2671,179.29,MCO,PHL
+1716,2011,1,"Orlando, FL","Phoenix, AZ",1848,703,230.65,MCO,PHX
+1717,2011,2,"Orlando, FL","Phoenix, AZ",1848,649,219.47,MCO,PHX
+1718,2011,3,"Orlando, FL","Phoenix, AZ",1849,558,208.86,MCO,PHX
+1719,2011,4,"Orlando, FL","Phoenix, AZ",1849,680,226.63,MCO,PHX
+1720,2012,1,"Orlando, FL","Phoenix, AZ",1849,647,249.69,MCO,PHX
+1721,2012,2,"Orlando, FL","Phoenix, AZ",1849,649,241.91,MCO,PHX
+1722,2012,3,"Orlando, FL","Phoenix, AZ",1849,505,225.56,MCO,PHX
+1723,2012,4,"Orlando, FL","Phoenix, AZ",1849,693,229.76,MCO,PHX
+1724,2013,1,"Orlando, FL","Phoenix, AZ",1849,656,272.2,MCO,PHX
+1725,2013,2,"Orlando, FL","Phoenix, AZ",1849,633,260.45,MCO,PHX
+1726,2013,3,"Orlando, FL","Phoenix, AZ",1849,434,283.36,MCO,PHX
+1727,2013,4,"Orlando, FL","Phoenix, AZ",1849,658,268.62,MCO,PHX
+1728,2011,1,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2445,937,266.73,MCO,SFO
+1729,2011,2,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2445,1136,282.49,MCO,SFO
+1730,2011,3,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,908,266.86,MCO,SFO
+1731,2011,4,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,1048,283.86,MCO,SFO
+1732,2012,1,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,963,278.97,MCO,SFO
+1733,2012,2,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,1121,300.79,MCO,SFO
+1734,2012,3,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,1028,276.69,MCO,SFO
+1735,2012,4,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,1080,287.81,MCO,SFO
+1736,2013,1,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,1061,279.68,MCO,SFO
+1737,2013,2,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,1312,281.98,MCO,SFO
+1738,2013,3,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,1065,283.02,MCO,SFO
+1739,2013,4,"Orlando, FL","San Francisco, CA (Metropolitan Area)",2446,1073,309.96,MCO,SFO
+1740,2011,1,"Orlando, FL","Seattle, WA",2553,725,245.07,MCO,SEA
+1741,2011,2,"Orlando, FL","Seattle, WA",2553,677,261.43,MCO,SEA
+1742,2011,3,"Orlando, FL","Seattle, WA",2554,661,242.97,MCO,SEA
+1743,2011,4,"Orlando, FL","Seattle, WA",2554,666,248.56,MCO,SEA
+1744,2012,1,"Orlando, FL","Seattle, WA",2554,665,277.13,MCO,SEA
+1745,2012,2,"Orlando, FL","Seattle, WA",2554,660,301.73,MCO,SEA
+1746,2012,3,"Orlando, FL","Seattle, WA",2554,636,285.82,MCO,SEA
+1747,2012,4,"Orlando, FL","Seattle, WA",2554,671,266.64,MCO,SEA
+1748,2013,1,"Orlando, FL","Seattle, WA",2554,672,268.04,MCO,SEA
+1749,2013,2,"Orlando, FL","Seattle, WA",2554,774,270.52,MCO,SEA
+1750,2013,3,"Orlando, FL","Seattle, WA",2554,715,265.82,MCO,SEA
+1751,2013,4,"Orlando, FL","Seattle, WA",2554,656,282.0,MCO,SEA
+1752,2011,1,"Philadelphia, PA","Phoenix, AZ",2075,881,250.62,PHL,PHX
+1753,2011,2,"Philadelphia, PA","Phoenix, AZ",2075,975,252.27,PHL,PHX
+1754,2011,3,"Philadelphia, PA","Phoenix, AZ",2075,830,251.74,PHL,PHX
+1755,2011,4,"Philadelphia, PA","Phoenix, AZ",2075,892,254.5,PHL,PHX
+1756,2012,1,"Philadelphia, PA","Phoenix, AZ",2075,791,262.65,PHL,PHX
+1757,2012,2,"Philadelphia, PA","Phoenix, AZ",2075,872,277.02,PHL,PHX
+1758,2012,3,"Philadelphia, PA","Phoenix, AZ",2075,785,235.71,PHL,PHX
+1759,2012,4,"Philadelphia, PA","Phoenix, AZ",2075,861,247.69,PHL,PHX
+1760,2013,1,"Philadelphia, PA","Phoenix, AZ",2075,867,266.82,PHL,PHX
+1761,2013,2,"Philadelphia, PA","Phoenix, AZ",2075,971,251.08,PHL,PHX
+1762,2013,3,"Philadelphia, PA","Phoenix, AZ",2075,808,271.59,PHL,PHX
+1763,2013,4,"Philadelphia, PA","Phoenix, AZ",2075,913,277.76,PHL,PHX
+1764,2011,1,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,989,370.93,PHL,SFO
+1765,2011,2,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1416,360.93,PHL,SFO
+1766,2011,3,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1545,353.86,PHL,SFO
+1767,2011,4,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1356,329.68,PHL,SFO
+1768,2012,1,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1029,351.08,PHL,SFO
+1769,2012,2,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1747,303.48,PHL,SFO
+1770,2012,3,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1906,291.34,PHL,SFO
+1771,2012,4,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1688,296.36,PHL,SFO
+1772,2013,1,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1434,291.02,PHL,SFO
+1773,2013,2,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1760,303.33,PHL,SFO
+1774,2013,3,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1722,322.18,PHL,SFO
+1775,2013,4,"Philadelphia, PA","San Francisco, CA (Metropolitan Area)",2521,1604,307.1,PHL,SFO
+1776,2011,1,"Philadelphia, PA","Seattle, WA",2378,339,303.08,PHL,SEA
+1777,2011,2,"Philadelphia, PA","Seattle, WA",2378,601,300.65,PHL,SEA
+1778,2011,3,"Philadelphia, PA","Seattle, WA",2378,673,310.39,PHL,SEA
+1779,2011,4,"Philadelphia, PA","Seattle, WA",2378,499,292.21,PHL,SEA
+1780,2012,1,"Philadelphia, PA","Seattle, WA",2378,344,311.64,PHL,SEA
+1781,2012,2,"Philadelphia, PA","Seattle, WA",2378,604,300.2,PHL,SEA
+1782,2012,3,"Philadelphia, PA","Seattle, WA",2378,741,296.28,PHL,SEA
+1783,2012,4,"Philadelphia, PA","Seattle, WA",2378,546,271.37,PHL,SEA
+1784,2013,1,"Philadelphia, PA","Seattle, WA",2378,386,263.68,PHL,SEA
+1785,2013,2,"Philadelphia, PA","Seattle, WA",2378,651,270.64,PHL,SEA
+1786,2013,3,"Philadelphia, PA","Seattle, WA",2378,778,289.17,PHL,SEA
+1787,2013,4,"Philadelphia, PA","Seattle, WA",2378,576,252.32,PHL,SEA
+1788,2011,1,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",651,3612,163.06,PHX,SFO
+1789,2011,2,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",651,3256,173.84,PHX,SFO
+1790,2011,3,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",651,2847,178.36,PHX,SFO
+1791,2011,4,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",651,3442,171.43,PHX,SFO
+1792,2012,1,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",668,3657,167.89,PHX,SFO
+1793,2012,2,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",668,3619,160.52,PHX,SFO
+1794,2012,3,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",668,3171,151.4,PHX,SFO
+1795,2012,4,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",668,3564,159.83,PHX,SFO
+1796,2013,1,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",668,3642,176.98,PHX,SFO
+1797,2013,2,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",668,3324,176.17,PHX,SFO
+1798,2013,3,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",651,2762,198.44,PHX,SFO
+1799,2013,4,"Phoenix, AZ","San Francisco, CA (Metropolitan Area)",668,3412,187.31,PHX,SFO
+1800,2011,1,"Phoenix, AZ","Seattle, WA",1107,1979,182.66,PHX,SEA
+1801,2011,2,"Phoenix, AZ","Seattle, WA",1107,1920,187.14,PHX,SEA
+1802,2011,3,"Phoenix, AZ","Seattle, WA",1107,1702,177.73,PHX,SEA
+1803,2011,4,"Phoenix, AZ","Seattle, WA",1107,1980,175.58,PHX,SEA
+1804,2012,1,"Phoenix, AZ","Seattle, WA",1107,2046,180.71,PHX,SEA
+1805,2012,2,"Phoenix, AZ","Seattle, WA",1107,1895,196.81,PHX,SEA
+1806,2012,3,"Phoenix, AZ","Seattle, WA",1107,1541,201.51,PHX,SEA
+1807,2012,4,"Phoenix, AZ","Seattle, WA",1124,1829,209.8,PHX,SEA
+1808,2013,1,"Phoenix, AZ","Seattle, WA",1124,2070,202.62,PHX,SEA
+1809,2013,2,"Phoenix, AZ","Seattle, WA",1107,1949,196.61,PHX,SEA
+1810,2013,3,"Phoenix, AZ","Seattle, WA",1107,1643,197.49,PHX,SEA
+1811,2013,4,"Phoenix, AZ","Seattle, WA",1107,2064,186.22,PHX,SEA
+1812,2011,1,"San Francisco, CA (Metropolitan Area)","Seattle, WA",696,4506,133.96,SFO,SEA
+1813,2011,2,"San Francisco, CA (Metropolitan Area)","Seattle, WA",696,5335,148.49,SFO,SEA
+1814,2011,3,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,5782,151.11,SFO,SEA
+1815,2011,4,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,5172,146.55,SFO,SEA
+1816,2012,1,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,4346,139.36,SFO,SEA
+1817,2012,2,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,5183,163.22,SFO,SEA
+1818,2012,3,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,5365,161.55,SFO,SEA
+1819,2012,4,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,4952,169.63,SFO,SEA
+1820,2013,1,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,4434,162.59,SFO,SEA
+1821,2013,2,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,5382,165.23,SFO,SEA
+1822,2013,3,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,5934,162.96,SFO,SEA
+1823,2013,4,"San Francisco, CA (Metropolitan Area)","Seattle, WA",697,5412,156.37,SFO,SEA

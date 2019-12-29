@@ -1,0 +1,10 @@
+name: air_passengers
+
+dependencies:
+  - python
+  - scikit-learn
+  - pandas
+  - conda-forge::pandas-profiling
+  - matplotlib
+  - seaborn
+  - jupyter
