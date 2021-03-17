@@ -1,6 +1,6 @@
-# Passenger_load_prediction_Python
+# passenger-load-prediction-python
 
-This is the final project for my Python class at Ecole Polytechnique (MSc Data Science, 2019-2020).
+This was the final project for my Intro to Python class at Ecole Polytechnique (MSc Data Science, 2019-2020).
 I worked with a classmate ([Tommy Tran](https://github.com/TommyTranX)) to forecast airplane passengers load in the United States using machine learning in Python.
 
 We were initially provided with:
